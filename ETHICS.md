@@ -125,6 +125,24 @@ If OpenAI API is enabled (via `OPENAI_API_KEY`):
 
 ---
 
+## 🤖 Responsible AI Use
+
+We used AI assistants to help plan this project and write starter text and code in plain beginner-friendly language.
+
+### Our Responsibilities as the Students
+
+- ✅ **We read and edited all generated content** to make sure we understand it
+- ✅ **We ran the code and tests ourselves** to verify everything works
+- ✅ **We fixed any mistakes or confusing parts** that the AI generated
+- ✅ **We wrote the final commit messages and pull request descriptions in our own words**
+- ✅ **We remain responsible for what we submit**
+
+### Why This Matters
+
+AI does not replace our learning or testing. It is a helper. We use it to accelerate development while maintaining full accountability for the final product. Every feature, function, and decision in this codebase has been reviewed, tested, and understood by our team.
+
+---
+
 ## 🔮 Future Enhancements (Responsible Expansion)
 
 ### Phase 1: Safety & Accuracy (High Priority)

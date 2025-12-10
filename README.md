@@ -265,6 +265,20 @@ See **[ETHICS.md](ETHICS.md)** for:
 
 ---
 
+## 🤖 Responsible AI Use
+
+We used AI assistants to help plan this project and write starter text and code in plain beginner-friendly language.
+
+### Our Responsibilities as the Students
+
+- ✅ **We read and edited all generated content** to make sure we understand it
+- ✅ **We ran the code and tests ourselves** to verify everything works
+- ✅ **We fixed any mistakes or confusing parts** that the AI generated
+- ✅ **We wrote the final commit messages and pull request descriptions in our own words**
+- ✅ **AI does not replace our learning or testing. It is a helper. We remain responsible for what we submit.**
+
+---
+
 ## 🛠️ Future Enhancements
 
 - [ ] **OpenAI Integration** – Richer answers to free-form questions

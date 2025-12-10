@@ -1,158 +1,9921 @@
 [
   {
     "title": "Chicken & Rice Bowl",
-    "ingredients": ["chicken", "rice", "soy sauce", "oil", "salt"],
+    "ingredients": [
+      "chicken",
+      "rice",
+      "soy sauce",
+      "oil",
+      "salt"
+    ],
     "time": "25 minutes",
-    "diets": ["halal", "kosher"],
+    "diets": [
+      "halal",
+      "kosher"
+    ],
     "steps": [
       "Cook rice according to package instructions.",
       "Season and pan-fry chicken until cooked through.",
       "Mix chicken with soy sauce and serve over rice with steamed veggies."
     ],
-    "tags": ["chicken", "rice", "easy"]
+    "tags": [
+      "chicken",
+      "rice",
+      "easy"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 451,
+      "protein_g": 42,
+      "carbs_g": 52,
+      "fat_g": 7.3
+    }
   },
   {
     "title": "Chicken Stir-Fry",
-    "ingredients": ["chicken", "broccoli", "soy sauce", "garlic", "oil"],
+    "ingredients": [
+      "chicken",
+      "broccoli",
+      "soy sauce",
+      "garlic",
+      "oil"
+    ],
     "time": "20 minutes",
-    "diets": ["halal", "kosher"],
+    "diets": [
+      "halal",
+      "kosher"
+    ],
     "steps": [
       "Cut chicken into cubes and season lightly.",
       "Stir-fry garlic and chicken in hot oil until golden.",
       "Add broccoli and soy sauce, cook until tender-crisp."
     ],
-    "tags": ["chicken", "stir-fry", "quick"]
+    "tags": [
+      "chicken",
+      "stir-fry",
+      "quick"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 328,
+      "protein_g": 43,
+      "carbs_g": 25,
+      "fat_g": 7.9
+    }
   },
   {
     "title": "One-Pan Chicken & Veggies",
-    "ingredients": ["chicken", "potato", "carrot", "oil", "salt"],
+    "ingredients": [
+      "chicken",
+      "potato",
+      "carrot",
+      "oil",
+      "salt"
+    ],
     "time": "35 minutes",
-    "diets": ["halal", "kosher"],
+    "diets": [
+      "halal",
+      "kosher"
+    ],
     "steps": [
       "Toss chopped chicken and veggies with oil and seasoning.",
       "Roast on a sheet pan at 200°C until cooked through.",
       "Serve hot."
     ],
-    "tags": ["chicken", "roast"]
+    "tags": [
+      "chicken",
+      "roast"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 283,
+      "protein_g": 29,
+      "carbs_g": 27,
+      "fat_g": 7.3
+    }
   },
   {
     "title": "Tomato Pasta",
-    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "salt"],
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "olive oil",
+      "salt"
+    ],
     "time": "20 minutes",
-    "diets": ["vegetarian", "vegan"],
+    "diets": [
+      "vegetarian",
+      "vegan"
+    ],
     "steps": [
       "Cook pasta until al dente.",
       "Sauté garlic in olive oil, add chopped tomatoes and simmer.",
       "Toss pasta with sauce and serve."
     ],
-    "tags": ["pasta", "vegetarian"]
+    "tags": [
+      "pasta",
+      "vegetarian"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1322,
+      "protein_g": 16,
+      "carbs_g": 90,
+      "fat_g": 101.7
+    }
   },
   {
     "title": "Fried Rice",
-    "ingredients": ["rice", "egg", "carrot", "peas", "soy sauce", "oil"],
+    "ingredients": [
+      "rice",
+      "egg",
+      "carrot",
+      "peas",
+      "soy sauce",
+      "oil"
+    ],
     "time": "15 minutes",
-    "diets": ["vegetarian"],
+    "diets": [
+      "vegetarian"
+    ],
     "steps": [
       "Use cold cooked rice for best texture.",
       "Scramble eggs in the pan, set aside.",
       "Stir-fry veggies, add rice and soy sauce, fold eggs back in."
     ],
-    "tags": ["rice", "quick"]
+    "tags": [
+      "rice",
+      "quick"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 405,
+      "protein_g": 23,
+      "carbs_g": 63,
+      "fat_g": 6.5
+    }
   },
   {
     "title": "Veggie Omelette",
-    "ingredients": ["egg", "milk", "onion", "bell pepper", "salt", "oil"],
+    "ingredients": [
+      "egg",
+      "milk",
+      "onion",
+      "bell pepper",
+      "salt",
+      "oil"
+    ],
     "time": "10 minutes",
-    "diets": ["vegetarian", "kosher"],
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
     "steps": [
       "Beat eggs with a splash of milk.",
       "Sauté veggies until soft, add egg mixture and cook until set.",
       "Fold and serve."
     ],
-    "tags": ["egg", "breakfast"]
+    "tags": [
+      "egg",
+      "breakfast"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 11,
+      "carbs_g": 21,
+      "fat_g": 9.4
+    }
   },
   {
     "title": "Grilled Cheese",
-    "ingredients": ["bread", "cheese", "butter"],
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter"
+    ],
     "time": "10 minutes",
-    "diets": ["vegetarian"],
+    "diets": [
+      "vegetarian"
+    ],
     "steps": [
       "Butter the bread slices, place cheese between them.",
       "Grill on a pan until golden and cheese melts.",
       "Serve immediately."
     ],
-    "tags": ["snack"]
+    "tags": [
+      "snack"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1384,
+      "protein_g": 34,
+      "carbs_g": 50,
+      "fat_g": 117
+    }
   },
   {
     "title": "Tuna Salad",
-    "ingredients": ["tuna", "mayonnaise", "celery", "lettuce"],
+    "ingredients": [
+      "tuna",
+      "mayonnaise",
+      "celery",
+      "lettuce"
+    ],
     "time": "10 minutes",
-    "diets": ["pescatarian", "halal", "kosher"],
+    "diets": [
+      "pescatarian",
+      "halal",
+      "kosher"
+    ],
     "steps": [
       "Mix drained tuna with mayo and chopped celery.",
       "Serve over lettuce or with bread."
     ],
-    "tags": ["salad", "quick"]
+    "tags": [
+      "salad",
+      "quick"
+    ],
+    "allergens": [
+      "celery",
+      "egg",
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 144,
+      "protein_g": 30,
+      "carbs_g": 0,
+      "fat_g": 1
+    }
   },
   {
     "title": "Pancakes",
-    "ingredients": ["flour", "milk", "egg", "butter"],
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "butter"
+    ],
     "time": "20 minutes",
-    "diets": ["vegetarian"],
+    "diets": [
+      "vegetarian"
+    ],
     "steps": [
       "Mix flour, milk, and egg to a batter.",
       "Fry small pancakes in butter until golden on both sides.",
       "Serve with syrup or fruit."
     ],
-    "tags": ["breakfast", "sweet"]
+    "tags": [
+      "breakfast",
+      "sweet"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1220,
+      "protein_g": 19,
+      "carbs_g": 82,
+      "fat_g": 91
+    }
   },
   {
     "title": "Quick Veggie Stir-Fry",
-    "ingredients": ["broccoli", "carrot", "soy sauce", "garlic", "oil"],
+    "ingredients": [
+      "broccoli",
+      "carrot",
+      "soy sauce",
+      "garlic",
+      "oil"
+    ],
     "time": "15 minutes",
-    "diets": ["vegan", "vegetarian", "halal", "kosher"],
+    "diets": [
+      "vegan",
+      "vegetarian",
+      "halal",
+      "kosher"
+    ],
     "steps": [
       "Heat oil and sauté garlic.",
       "Add veggies and stir-fry until tender-crisp.",
       "Finish with soy sauce and serve with rice or noodles."
     ],
-    "tags": ["veggie", "quick"]
+    "tags": [
+      "veggie",
+      "quick"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 204,
+      "protein_g": 18,
+      "carbs_g": 35,
+      "fat_g": 1.1
+    }
   },
   {
     "title": "Tofu Stir-Fry",
-    "ingredients": ["tofu", "broccoli", "bell pepper", "soy sauce", "garlic", "oil"],
+    "ingredients": [
+      "tofu",
+      "broccoli",
+      "bell pepper",
+      "soy sauce",
+      "garlic",
+      "oil"
+    ],
     "time": "20 minutes",
-    "diets": ["vegan", "vegetarian"],
+    "diets": [
+      "vegan",
+      "vegetarian"
+    ],
     "steps": [
       "Press tofu and cut into cubes.",
       "Pan-fry tofu until golden, set aside.",
       "Stir-fry veggies and garlic, add tofu back with soy sauce, cook until done."
     ],
-    "tags": ["tofu", "quick"]
+    "tags": [
+      "tofu",
+      "quick"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 270,
+      "protein_g": 26,
+      "carbs_g": 33,
+      "fat_g": 6.2
+    }
   },
   {
     "title": "Lentil & Vegetable Curry",
-    "ingredients": ["lentils", "coconut milk", "tomato", "onion", "garlic", "oil", "curry powder"],
+    "ingredients": [
+      "lentils",
+      "coconut milk",
+      "tomato",
+      "onion",
+      "garlic",
+      "oil",
+      "curry powder"
+    ],
     "time": "30 minutes",
-    "diets": ["vegan", "vegetarian"],
+    "diets": [
+      "vegan",
+      "vegetarian"
+    ],
     "steps": [
       "Sauté onion and garlic in oil.",
       "Add curry powder, lentils, and coconut milk.",
       "Add tomato and simmer until lentils are tender.",
       "Serve with rice or bread."
     ],
-    "tags": ["curry", "vegan"]
+    "tags": [
+      "curry",
+      "vegan"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 453,
+      "protein_g": 15,
+      "carbs_g": 49,
+      "fat_g": 25.2
+    }
   },
   {
     "title": "Grilled Fish with Lemon",
-    "ingredients": ["fish", "lemon", "olive oil", "salt", "pepper"],
+    "ingredients": [
+      "fish",
+      "lemon",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
     "time": "20 minutes",
-    "diets": ["pescatarian", "halal", "kosher"],
+    "diets": [
+      "pescatarian",
+      "halal",
+      "kosher"
+    ],
     "steps": [
       "Brush fish with olive oil and season with salt and pepper.",
       "Grill or pan-fry fish until cooked through (about 5-7 min per side).",
       "Squeeze fresh lemon juice and serve."
     ],
-    "tags": ["fish", "pescatarian"]
+    "tags": [
+      "fish",
+      "pescatarian"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 901,
+      "protein_g": 1,
+      "carbs_g": 5,
+      "fat_g": 100.3
+    }
+  },
+  {
+    "title": "Asparagus Special",
+    "ingredients": [
+      "asparagus",
+      "ground beef",
+      "cumin",
+      "beef",
+      "chicken"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the asparagus and other ingredients.",
+      "Cook ground beef, cumin until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "asparagus"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 665,
+      "protein_g": 78,
+      "carbs_g": 0,
+      "fat_g": 37
+    }
+  },
+  {
+    "title": "Sweet potato Bowl",
+    "ingredients": [
+      "sweet potato",
+      "beef",
+      "pork",
+      "milk"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the sweet potato and other ingredients.",
+      "Cook beef, pork until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sweet potato"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 639,
+      "protein_g": 58,
+      "carbs_g": 25,
+      "fat_g": 31.1
+    }
+  },
+  {
+    "title": "Lime Delight",
+    "ingredients": [
+      "lime",
+      "lemon",
+      "chickpeas",
+      "cod",
+      "spinach"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lime and other ingredients.",
+      "Cook lemon, chickpeas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lime"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 286,
+      "protein_g": 31,
+      "carbs_g": 36,
+      "fat_g": 4.7
+    }
+  },
+  {
+    "title": "Duck Skillet",
+    "ingredients": [
+      "duck",
+      "apple",
+      "broccoli",
+      "teriyaki sauce",
+      "pine nuts"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the duck and other ingredients.",
+      "Cook apple, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "duck"
+    ],
+    "allergens": [
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 34,
+      "protein_g": 3,
+      "carbs_g": 7,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Chard Special",
+    "ingredients": [
+      "chard",
+      "onion powder",
+      "chili powder",
+      "apple",
+      "egg"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chard and other ingredients.",
+      "Cook onion powder, chili powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chard"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 118,
+      "protein_g": 7,
+      "carbs_g": 10,
+      "fat_g": 6.1
+    }
+  },
+  {
+    "title": "Egg Special",
+    "ingredients": [
+      "egg",
+      "sweet potato",
+      "tempeh",
+      "pasta",
+      "stock",
+      "mayonnaise"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook sweet potato, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 730,
+      "protein_g": 40,
+      "carbs_g": 105,
+      "fat_g": 18.1
+    }
+  },
+  {
+    "title": "Garlic powder Salad",
+    "ingredients": [
+      "garlic powder",
+      "peas",
+      "green beans",
+      "pasta"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the garlic powder and other ingredients.",
+      "Cook peas, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic powder"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 15,
+      "carbs_g": 86,
+      "fat_g": 1.5
+    }
+  },
+  {
+    "title": "Chili powder Salad",
+    "ingredients": [
+      "chili powder",
+      "cream",
+      "chickpeas",
+      "turmeric"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chili powder and other ingredients.",
+      "Cook cream, chickpeas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chili powder"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 164,
+      "protein_g": 9,
+      "carbs_g": 27,
+      "fat_g": 3
+    }
+  },
+  {
+    "title": "Cinnamon Salad",
+    "ingredients": [
+      "cinnamon",
+      "lamb",
+      "tuna",
+      "bell pepper",
+      "paprika",
+      "olive oil"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cinnamon and other ingredients.",
+      "Cook lamb, tuna until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cinnamon"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 1059,
+      "protein_g": 31,
+      "carbs_g": 6,
+      "fat_g": 101.3
+    }
+  },
+  {
+    "title": "Eggplant Skillet",
+    "ingredients": [
+      "eggplant",
+      "pepper",
+      "avocado",
+      "cumin",
+      "turmeric"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the eggplant and other ingredients.",
+      "Cook pepper, avocado until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "eggplant"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 238,
+      "protein_g": 8,
+      "carbs_g": 10,
+      "fat_g": 21
+    }
+  },
+  {
+    "title": "Cumin Special",
+    "ingredients": [
+      "cumin",
+      "spinach",
+      "banana",
+      "paprika",
+      "cilantro"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook spinach, banana until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 23,
+      "protein_g": 3,
+      "carbs_g": 4,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Garlic powder Bowl",
+    "ingredients": [
+      "garlic powder",
+      "green beans",
+      "peas",
+      "tortillas",
+      "tuna"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the garlic powder and other ingredients.",
+      "Cook green beans, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic powder"
+    ],
+    "allergens": [
+      "fish",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 193,
+      "protein_g": 32,
+      "carbs_g": 11,
+      "fat_g": 1.5
+    }
+  },
+  {
+    "title": "Milk Delight",
+    "ingredients": [
+      "milk",
+      "spinach",
+      "duck",
+      "green beans"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the milk and other ingredients.",
+      "Cook spinach, duck until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "milk"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 84,
+      "protein_g": 6,
+      "carbs_g": 9,
+      "fat_g": 3.4
+    }
+  },
+  {
+    "title": "Spring onion Medley",
+    "ingredients": [
+      "spring onion",
+      "pinto beans",
+      "olive oil",
+      "mushroom",
+      "cheese",
+      "pasta",
+      "garlic powder"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook pinto beans, olive oil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1768,
+      "protein_g": 44,
+      "carbs_g": 99,
+      "fat_g": 134.9
+    }
+  },
+  {
+    "title": "Tofu Skillet",
+    "ingredients": [
+      "tofu",
+      "egg",
+      "carrot",
+      "coriander"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the tofu and other ingredients.",
+      "Cook egg, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tofu"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein_g": 15,
+      "carbs_g": 13,
+      "fat_g": 11.2
+    }
+  },
+  {
+    "title": "Peas Special",
+    "ingredients": [
+      "peas",
+      "asparagus",
+      "kidney beans",
+      "tofu",
+      "tuna",
+      "couscous",
+      "onion powder"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the peas and other ingredients.",
+      "Cook asparagus, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "peas"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 636,
+      "protein_g": 52,
+      "carbs_g": 88,
+      "fat_g": 6.7
+    }
+  },
+  {
+    "title": "Pinto beans Sauté",
+    "ingredients": [
+      "pinto beans",
+      "shrimp",
+      "couscous",
+      "cucumber",
+      "quinoa",
+      "avocado"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook shrimp, couscous until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ],
+    "allergens": [
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 1003,
+      "protein_g": 53,
+      "carbs_g": 150,
+      "fat_g": 21.9
+    }
+  },
+  {
+    "title": "Cilantro Bowl",
+    "ingredients": [
+      "cilantro",
+      "lentils",
+      "tortillas",
+      "celery"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cilantro and other ingredients.",
+      "Cook lentils, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cilantro"
+    ],
+    "allergens": [
+      "celery",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 116,
+      "protein_g": 9,
+      "carbs_g": 20,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Butter Delight",
+    "ingredients": [
+      "butter",
+      "ginger",
+      "coriander",
+      "pepper",
+      "beef"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the butter and other ingredients.",
+      "Cook ginger, coriander until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "butter"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 967,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 96
+    }
+  },
+  {
+    "title": "Mozzarella Sauté",
+    "ingredients": [
+      "mozzarella",
+      "cheese",
+      "lentils",
+      "spinach",
+      "apple",
+      "pesto",
+      "milk"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the mozzarella and other ingredients.",
+      "Cook cheese, lentils until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mozzarella"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 602,
+      "protein_g": 40,
+      "carbs_g": 30,
+      "fat_g": 36.8
+    }
+  },
+  {
+    "title": "Green beans Sauté",
+    "ingredients": [
+      "green beans",
+      "teriyaki sauce",
+      "sesame seeds",
+      "kidney beans",
+      "asparagus"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook teriyaki sauce, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Parsley Bowl",
+    "ingredients": [
+      "parsley",
+      "pine nuts",
+      "chard",
+      "orange",
+      "salsa",
+      "ground turkey",
+      "cod"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook pine nuts, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ],
+    "allergens": [
+      "fish",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 271,
+      "protein_g": 44,
+      "carbs_g": 0,
+      "fat_g": 9.5
+    }
+  },
+  {
+    "title": "Apple Skillet",
+    "ingredients": [
+      "apple",
+      "quinoa",
+      "orange",
+      "pork",
+      "potato"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook quinoa, orange until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 687,
+      "protein_g": 43,
+      "carbs_g": 81,
+      "fat_g": 19.1
+    }
+  },
+  {
+    "title": "Black beans Medley",
+    "ingredients": [
+      "black beans",
+      "butter",
+      "couscous",
+      "garlic powder"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the black beans and other ingredients.",
+      "Cook butter, couscous until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "black beans"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 1274,
+      "protein_g": 24,
+      "carbs_g": 112,
+      "fat_g": 82.6
+    }
+  },
+  {
+    "title": "Egg Bowl",
+    "ingredients": [
+      "egg",
+      "bread",
+      "onion",
+      "tofu"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook bread, onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 459,
+      "protein_g": 24,
+      "carbs_g": 61,
+      "fat_g": 14.1
+    }
+  },
+  {
+    "title": "Parmesan Skillet",
+    "ingredients": [
+      "parmesan",
+      "teriyaki sauce",
+      "duck",
+      "kale",
+      "lime",
+      "tofu",
+      "orange"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the parmesan and other ingredients.",
+      "Cook teriyaki sauce, duck until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parmesan"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 76,
+      "protein_g": 8,
+      "carbs_g": 2,
+      "fat_g": 5
+    }
+  },
+  {
+    "title": "Chickpeas Medley",
+    "ingredients": [
+      "chickpeas",
+      "quinoa",
+      "lime",
+      "salmon"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the chickpeas and other ingredients.",
+      "Cook quinoa, lime until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chickpeas"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 812,
+      "protein_g": 48,
+      "carbs_g": 91,
+      "fat_g": 29
+    }
+  },
+  {
+    "title": "Tempeh Special",
+    "ingredients": [
+      "tempeh",
+      "pork",
+      "carrot",
+      "soy sauce",
+      "potato",
+      "shrimp"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook pork, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "shellfish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 734,
+      "protein_g": 85,
+      "carbs_g": 43,
+      "fat_g": 24.6
+    }
+  },
+  {
+    "title": "Coconut milk Skillet",
+    "ingredients": [
+      "coconut milk",
+      "pine nuts",
+      "tofu",
+      "curry powder",
+      "mayonnaise"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook pine nuts, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "soy",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 306,
+      "protein_g": 10,
+      "carbs_g": 7,
+      "fat_g": 29
+    }
+  },
+  {
+    "title": "Lime Special",
+    "ingredients": [
+      "lime",
+      "egg",
+      "celery",
+      "chard",
+      "olive oil",
+      "lentils"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lime and other ingredients.",
+      "Cook egg, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lime"
+    ],
+    "allergens": [
+      "celery",
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 1078,
+      "protein_g": 15,
+      "carbs_g": 21,
+      "fat_g": 106.4
+    }
+  },
+  {
+    "title": "Couscous Medley",
+    "ingredients": [
+      "couscous",
+      "pinto beans",
+      "mushroom",
+      "tempeh"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the couscous and other ingredients.",
+      "Cook pinto beans, mushroom until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "couscous"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 593,
+      "protein_g": 35,
+      "carbs_g": 89,
+      "fat_g": 11.9
+    }
+  },
+  {
+    "title": "Salt Salad",
+    "ingredients": [
+      "salt",
+      "yogurt",
+      "banana",
+      "tuna",
+      "basil",
+      "bread",
+      "salmon"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the salt and other ingredients.",
+      "Cook yogurt, banana until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salt"
+    ],
+    "allergens": [
+      "fish",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 748,
+      "protein_g": 74,
+      "carbs_g": 52,
+      "fat_g": 24.4
+    }
+  },
+  {
+    "title": "Cumin Sauté",
+    "ingredients": [
+      "cumin",
+      "paprika",
+      "kale",
+      "egg",
+      "tortillas",
+      "apple"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook paprika, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ],
+    "allergens": [
+      "egg",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 78,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Pinto beans Delight",
+    "ingredients": [
+      "pinto beans",
+      "sweet potato",
+      "cucumber",
+      "tortillas",
+      "chickpeas",
+      "lettuce",
+      "honey"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook sweet potato, cucumber until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 11,
+      "carbs_g": 47,
+      "fat_g": 3.1
+    }
+  },
+  {
+    "title": "Butter Medley",
+    "ingredients": [
+      "butter",
+      "egg",
+      "asparagus",
+      "black beans"
+    ],
+    "time": "15 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the butter and other ingredients.",
+      "Cook egg, asparagus until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "butter"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 927,
+      "protein_g": 15,
+      "carbs_g": 25,
+      "fat_g": 87.5
+    }
+  },
+  {
+    "title": "Parmesan Medley",
+    "ingredients": [
+      "parmesan",
+      "lamb",
+      "onion",
+      "garlic powder",
+      "carrot",
+      "mushroom",
+      "kale"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the parmesan and other ingredients.",
+      "Cook lamb, onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parmesan"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 152,
+      "protein_g": 7,
+      "carbs_g": 33,
+      "fat_g": 1.1
+    }
+  },
+  {
+    "title": "Duck Bowl",
+    "ingredients": [
+      "duck",
+      "paprika",
+      "chard",
+      "olive oil",
+      "sesame seeds",
+      "garlic"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the duck and other ingredients.",
+      "Cook paprika, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "duck"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 933,
+      "protein_g": 2,
+      "carbs_g": 11,
+      "fat_g": 100.5
+    }
+  },
+  {
+    "title": "Mozzarella Salad",
+    "ingredients": [
+      "mozzarella",
+      "cheese",
+      "cream",
+      "banana",
+      "coriander",
+      "chili flakes",
+      "couscous"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the mozzarella and other ingredients.",
+      "Cook cheese, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mozzarella"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 778,
+      "protein_g": 38,
+      "carbs_g": 78,
+      "fat_g": 33.6
+    }
+  },
+  {
+    "title": "Tomato Delight",
+    "ingredients": [
+      "tomato",
+      "lamb",
+      "garlic powder",
+      "lemon",
+      "cilantro",
+      "cheese",
+      "pork"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook lamb, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 728,
+      "protein_g": 56,
+      "carbs_g": 21,
+      "fat_g": 47.0
+    }
+  },
+  {
+    "title": "Chili powder Delight",
+    "ingredients": [
+      "chili powder",
+      "lettuce",
+      "chard",
+      "cod",
+      "teriyaki sauce"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chili powder and other ingredients.",
+      "Cook lettuce, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chili powder"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 82,
+      "protein_g": 18,
+      "carbs_g": 0,
+      "fat_g": 1
+    }
+  },
+  {
+    "title": "Bread Medley",
+    "ingredients": [
+      "bread",
+      "chickpeas",
+      "chard",
+      "tuna",
+      "salsa",
+      "lime",
+      "soy sauce"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook chickpeas, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ],
+    "allergens": [
+      "fish",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 653,
+      "protein_g": 60,
+      "carbs_g": 83,
+      "fat_g": 7
+    }
+  },
+  {
+    "title": "Duck Salad",
+    "ingredients": [
+      "duck",
+      "apple",
+      "tempeh",
+      "lemon",
+      "chili powder",
+      "sweet potato"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the duck and other ingredients.",
+      "Cook apple, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "duck"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 298,
+      "protein_g": 22,
+      "carbs_g": 34,
+      "fat_g": 11.4
+    }
+  },
+  {
+    "title": "Mushroom Special",
+    "ingredients": [
+      "mushroom",
+      "chickpeas",
+      "salmon",
+      "cilantro",
+      "asparagus",
+      "black beans",
+      "paprika"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook chickpeas, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 598,
+      "protein_g": 46,
+      "carbs_g": 54,
+      "fat_g": 23.8
+    }
+  },
+  {
+    "title": "Spring onion Skillet",
+    "ingredients": [
+      "spring onion",
+      "couscous",
+      "lime",
+      "green beans",
+      "cheese",
+      "cod"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook couscous, lime until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 900,
+      "protein_g": 57,
+      "carbs_g": 87,
+      "fat_g": 34.7
+    }
+  },
+  {
+    "title": "Ginger Bowl",
+    "ingredients": [
+      "ginger",
+      "potato",
+      "beef",
+      "chili flakes"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook potato, beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 327,
+      "protein_g": 28,
+      "carbs_g": 17,
+      "fat_g": 15.1
+    }
+  },
+  {
+    "title": "Yogurt Special",
+    "ingredients": [
+      "yogurt",
+      "sesame seeds",
+      "pasta",
+      "teriyaki sauce",
+      "cream",
+      "lettuce",
+      "tofu"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook sesame seeds, pasta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "milk",
+      "sesame",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 506,
+      "protein_g": 31,
+      "carbs_g": 80,
+      "fat_g": 6.4
+    }
+  },
+  {
+    "title": "Pork Bowl",
+    "ingredients": [
+      "pork",
+      "rice",
+      "asparagus",
+      "coconut milk",
+      "basil"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the pork and other ingredients.",
+      "Cook rice, asparagus until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pork"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 678,
+      "protein_g": 33,
+      "carbs_g": 50,
+      "fat_g": 37.3
+    }
+  },
+  {
+    "title": "Basil Bowl",
+    "ingredients": [
+      "basil",
+      "parmesan",
+      "lettuce",
+      "avocado",
+      "lemon",
+      "paprika"
+    ],
+    "time": "15 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the basil and other ingredients.",
+      "Cook parmesan, lettuce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "basil"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 177,
+      "protein_g": 3,
+      "carbs_g": 14,
+      "fat_g": 15.3
+    }
+  },
+  {
+    "title": "Chickpeas Bowl",
+    "ingredients": [
+      "chickpeas",
+      "apple",
+      "ground beef",
+      "rice",
+      "turkey"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the chickpeas and other ingredients.",
+      "Cook apple, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chickpeas"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 809,
+      "protein_g": 65,
+      "carbs_g": 72,
+      "fat_g": 26.8
+    }
+  },
+  {
+    "title": "Kale Sauté",
+    "ingredients": [
+      "kale",
+      "sweet potato",
+      "curry powder",
+      "pork"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the kale and other ingredients.",
+      "Cook sweet potato, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "kale"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 328,
+      "protein_g": 29,
+      "carbs_g": 20,
+      "fat_g": 13.1
+    }
+  },
+  {
+    "title": "Turkey Skillet",
+    "ingredients": [
+      "turkey",
+      "butter",
+      "olive oil",
+      "celery",
+      "yogurt"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the turkey and other ingredients.",
+      "Cook butter, olive oil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turkey"
+    ],
+    "allergens": [
+      "celery",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 1849,
+      "protein_g": 36,
+      "carbs_g": 3,
+      "fat_g": 189.9
+    }
+  },
+  {
+    "title": "Salt Special",
+    "ingredients": [
+      "salt",
+      "parmesan",
+      "garlic powder",
+      "turkey",
+      "ginger",
+      "couscous"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the salt and other ingredients.",
+      "Cook parmesan, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salt"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 614,
+      "protein_g": 41,
+      "carbs_g": 88,
+      "fat_g": 9.6
+    }
+  },
+  {
+    "title": "Spring onion Medley",
+    "ingredients": [
+      "spring onion",
+      "chard",
+      "potato",
+      "tuna",
+      "seaweed",
+      "honey"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook chard, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 261,
+      "protein_g": 33,
+      "carbs_g": 26,
+      "fat_g": 1.2
+    }
+  },
+  {
+    "title": "Lettuce Medley",
+    "ingredients": [
+      "lettuce",
+      "tortillas",
+      "feta",
+      "yogurt",
+      "chili flakes",
+      "bread"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lettuce and other ingredients.",
+      "Cook tortillas, feta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lettuce"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 324,
+      "protein_g": 19,
+      "carbs_g": 52,
+      "fat_g": 3.4
+    }
+  },
+  {
+    "title": "Stock Delight",
+    "ingredients": [
+      "stock",
+      "cucumber",
+      "bread",
+      "chickpeas",
+      "pinto beans",
+      "coriander",
+      "pork"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the stock and other ingredients.",
+      "Cook cucumber, bread until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "stock"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 671,
+      "protein_g": 45,
+      "carbs_g": 76,
+      "fat_g": 19
+    }
+  },
+  {
+    "title": "Milk Bowl",
+    "ingredients": [
+      "milk",
+      "chili flakes",
+      "carrot",
+      "rice",
+      "lamb",
+      "mushroom"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the milk and other ingredients.",
+      "Cook chili flakes, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "milk"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 330,
+      "protein_g": 11,
+      "carbs_g": 63,
+      "fat_g": 3.8
+    }
+  },
+  {
+    "title": "Rice Sauté",
+    "ingredients": [
+      "rice",
+      "ginger",
+      "apple",
+      "cod"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the rice and other ingredients.",
+      "Cook ginger, apple until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "rice"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 288,
+      "protein_g": 22,
+      "carbs_g": 45,
+      "fat_g": 1.3
+    }
+  },
+  {
+    "title": "Ground beef Medley",
+    "ingredients": [
+      "ground beef",
+      "milk",
+      "onion powder",
+      "chili flakes"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the ground beef and other ingredients.",
+      "Cook milk, onion powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground beef"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 351,
+      "protein_g": 30,
+      "carbs_g": 14,
+      "fat_g": 18.1
+    }
+  },
+  {
+    "title": "Kidney beans Skillet",
+    "ingredients": [
+      "kidney beans",
+      "couscous",
+      "curry powder",
+      "lettuce",
+      "mayonnaise"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the kidney beans and other ingredients.",
+      "Cook couscous, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "kidney beans"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 376,
+      "protein_g": 13,
+      "carbs_g": 77,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Shrimp Special",
+    "ingredients": [
+      "shrimp",
+      "cumin",
+      "avocado",
+      "tofu",
+      "cucumber",
+      "pine nuts"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the shrimp and other ingredients.",
+      "Cook cumin, avocado until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "shrimp"
+    ],
+    "allergens": [
+      "shellfish",
+      "soy",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 335,
+      "protein_g": 34,
+      "carbs_g": 11,
+      "fat_g": 20.3
+    }
+  },
+  {
+    "title": "Cucumber Sauté",
+    "ingredients": [
+      "cucumber",
+      "pesto",
+      "apple",
+      "ground beef"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook pesto, apple until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 15
+    }
+  },
+  {
+    "title": "Potato Skillet",
+    "ingredients": [
+      "potato",
+      "ground beef",
+      "seaweed",
+      "apple",
+      "turmeric",
+      "butter"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook ground beef, seaweed until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 1044,
+      "protein_g": 28,
+      "carbs_g": 17,
+      "fat_g": 96.1
+    }
+  },
+  {
+    "title": "Egg Delight",
+    "ingredients": [
+      "egg",
+      "pinto beans",
+      "soba noodles",
+      "black beans",
+      "kidney beans",
+      "tempeh"
+    ],
+    "time": "15 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook pinto beans, soba noodles until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 405,
+      "protein_g": 34,
+      "carbs_g": 34,
+      "fat_g": 17.5
+    }
+  },
+  {
+    "title": "Cod Special",
+    "ingredients": [
+      "cod",
+      "pork",
+      "seaweed",
+      "soy sauce",
+      "apple"
+    ],
+    "time": "15 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook pork, seaweed until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 404,
+      "protein_g": 57,
+      "carbs_g": 7,
+      "fat_g": 14
+    }
+  },
+  {
+    "title": "Beef Skillet",
+    "ingredients": [
+      "beef",
+      "pinto beans",
+      "parmesan",
+      "turmeric"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook pinto beans, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 15
+    }
+  },
+  {
+    "title": "Black beans Delight",
+    "ingredients": [
+      "black beans",
+      "egg",
+      "cilantro",
+      "turmeric"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the black beans and other ingredients.",
+      "Cook egg, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "black beans"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 15,
+      "carbs_g": 25,
+      "fat_g": 6.5
+    }
+  },
+  {
+    "title": "Coriander Bowl",
+    "ingredients": [
+      "coriander",
+      "celery",
+      "cinnamon",
+      "mozzarella",
+      "pine nuts",
+      "chili flakes",
+      "garlic powder"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the coriander and other ingredients.",
+      "Cook celery, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coriander"
+    ],
+    "allergens": [
+      "celery",
+      "milk",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 49,
+      "protein_g": 2,
+      "carbs_g": 11,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Cod Salad",
+    "ingredients": [
+      "cod",
+      "olive oil",
+      "tempeh",
+      "quinoa"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook olive oil, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 1529,
+      "protein_g": 51,
+      "carbs_g": 73,
+      "fat_g": 118
+    }
+  },
+  {
+    "title": "Green beans Bowl",
+    "ingredients": [
+      "green beans",
+      "asparagus",
+      "curry powder",
+      "yogurt"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook asparagus, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 59,
+      "protein_g": 10,
+      "carbs_g": 3,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Soba noodles Sauté",
+    "ingredients": [
+      "soba noodles",
+      "asparagus",
+      "coconut milk",
+      "salsa"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the soba noodles and other ingredients.",
+      "Cook asparagus, coconut milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soba noodles"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fat_g": 24
+    }
+  },
+  {
+    "title": "Pinto beans Bowl",
+    "ingredients": [
+      "pinto beans",
+      "sesame seeds",
+      "yogurt",
+      "tempeh",
+      "cumin",
+      "ginger"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook sesame seeds, yogurt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ],
+    "allergens": [
+      "milk",
+      "sesame",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 254,
+      "protein_g": 29,
+      "carbs_g": 12,
+      "fat_g": 11.4
+    }
+  },
+  {
+    "title": "Lettuce Bowl",
+    "ingredients": [
+      "lettuce",
+      "orange",
+      "cream",
+      "green beans",
+      "cheese",
+      "zucchini",
+      "eggplant"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the lettuce and other ingredients.",
+      "Cook orange, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lettuce"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 31,
+      "carbs_g": 2,
+      "fat_g": 39
+    }
+  },
+  {
+    "title": "Zucchini Delight",
+    "ingredients": [
+      "zucchini",
+      "ginger",
+      "lemon",
+      "couscous",
+      "lime",
+      "mozzarella"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the zucchini and other ingredients.",
+      "Cook ginger, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "zucchini"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 393,
+      "protein_g": 14,
+      "carbs_g": 82,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Soba noodles Bowl",
+    "ingredients": [
+      "soba noodles",
+      "carrot",
+      "yogurt",
+      "orange"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the soba noodles and other ingredients.",
+      "Cook carrot, yogurt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soba noodles"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 100,
+      "protein_g": 11,
+      "carbs_g": 13,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Garlic powder Special",
+    "ingredients": [
+      "garlic powder",
+      "sesame seeds",
+      "teriyaki sauce",
+      "seaweed",
+      "pesto"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the garlic powder and other ingredients.",
+      "Cook sesame seeds, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic powder"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 49,
+      "protein_g": 2,
+      "carbs_g": 11,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Soba noodles Bowl",
+    "ingredients": [
+      "soba noodles",
+      "tomato",
+      "garlic",
+      "mushroom",
+      "orange",
+      "garlic powder"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the soba noodles and other ingredients.",
+      "Cook tomato, garlic until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soba noodles"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 138,
+      "protein_g": 8,
+      "carbs_g": 29,
+      "fat_g": 1.5
+    }
+  },
+  {
+    "title": "Tuna Delight",
+    "ingredients": [
+      "tuna",
+      "apple",
+      "garlic powder",
+      "paprika",
+      "curry powder",
+      "egg"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the tuna and other ingredients.",
+      "Cook apple, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tuna"
+    ],
+    "allergens": [
+      "egg",
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 271,
+      "protein_g": 38,
+      "carbs_g": 12,
+      "fat_g": 7.5
+    }
+  },
+  {
+    "title": "Mozzarella Medley",
+    "ingredients": [
+      "mozzarella",
+      "teriyaki sauce",
+      "cilantro",
+      "basil",
+      "banana",
+      "orange",
+      "pesto"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the mozzarella and other ingredients.",
+      "Cook teriyaki sauce, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mozzarella"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Pine nuts Salad",
+    "ingredients": [
+      "pine nuts",
+      "curry powder",
+      "vinegar",
+      "soba noodles",
+      "carrot",
+      "green beans"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook curry powder, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ],
+    "allergens": [
+      "tree_nuts",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 41,
+      "protein_g": 1,
+      "carbs_g": 10,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "title": "Bell pepper Sauté",
+    "ingredients": [
+      "bell pepper",
+      "avocado",
+      "chili flakes",
+      "mushroom",
+      "stock",
+      "cilantro",
+      "pork"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the bell pepper and other ingredients.",
+      "Cook avocado, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bell pepper"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 455,
+      "protein_g": 33,
+      "carbs_g": 18,
+      "fat_g": 28.6
+    }
+  },
+  {
+    "title": "Spring onion Delight",
+    "ingredients": [
+      "spring onion",
+      "feta",
+      "sweet potato",
+      "cheese"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook feta, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 528,
+      "protein_g": 28,
+      "carbs_g": 30,
+      "fat_g": 33.2
+    }
+  },
+  {
+    "title": "Pork Delight",
+    "ingredients": [
+      "pork",
+      "tomato",
+      "cheese",
+      "tuna",
+      "mushroom"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the pork and other ingredients.",
+      "Cook tomato, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pork"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 828,
+      "protein_g": 86,
+      "carbs_g": 8,
+      "fat_g": 47.5
+    }
+  },
+  {
+    "title": "Egg Special",
+    "ingredients": [
+      "egg",
+      "curry powder",
+      "soba noodles",
+      "cod",
+      "mushroom",
+      "carrot",
+      "mozzarella"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook curry powder, soba noodles until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "fish",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 223,
+      "protein_g": 28,
+      "carbs_g": 14,
+      "fat_g": 7.5
+    }
+  },
+  {
+    "title": "Asparagus Skillet",
+    "ingredients": [
+      "asparagus",
+      "curry powder",
+      "salt",
+      "salmon",
+      "quinoa",
+      "onion"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the asparagus and other ingredients.",
+      "Cook curry powder, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "asparagus"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 688,
+      "protein_g": 40,
+      "carbs_g": 73,
+      "fat_g": 26.1
+    }
+  },
+  {
+    "title": "Zucchini Sauté",
+    "ingredients": [
+      "zucchini",
+      "celery",
+      "turkey",
+      "ground turkey",
+      "lime"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the zucchini and other ingredients.",
+      "Cook celery, turkey until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "zucchini"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 378,
+      "protein_g": 52,
+      "carbs_g": 0,
+      "fat_g": 17.0
+    }
+  },
+  {
+    "title": "Cilantro Delight",
+    "ingredients": [
+      "cilantro",
+      "olive oil",
+      "sweet potato",
+      "spinach"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cilantro and other ingredients.",
+      "Cook olive oil, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cilantro"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 993,
+      "protein_g": 5,
+      "carbs_g": 24,
+      "fat_g": 100.5
+    }
+  },
+  {
+    "title": "Yogurt Sauté",
+    "ingredients": [
+      "yogurt",
+      "onion",
+      "turkey",
+      "sweet potato",
+      "ground beef",
+      "mushroom",
+      "kale"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook onion, turkey until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 646,
+      "protein_g": 68,
+      "carbs_g": 35,
+      "fat_g": 24.4
+    }
+  },
+  {
+    "title": "Lemon Special",
+    "ingredients": [
+      "lemon",
+      "apple",
+      "teriyaki sauce",
+      "egg"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the lemon and other ingredients.",
+      "Cook apple, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lemon"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 95,
+      "protein_g": 7,
+      "carbs_g": 6,
+      "fat_g": 6.3
+    }
+  },
+  {
+    "title": "Chard Bowl",
+    "ingredients": [
+      "chard",
+      "lime",
+      "egg",
+      "tortillas",
+      "black beans"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the chard and other ingredients.",
+      "Cook lime, egg until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chard"
+    ],
+    "allergens": [
+      "egg",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 15,
+      "carbs_g": 25,
+      "fat_g": 6.5
+    }
+  },
+  {
+    "title": "Duck Sauté",
+    "ingredients": [
+      "duck",
+      "soba noodles",
+      "sweet potato",
+      "bread",
+      "pesto"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the duck and other ingredients.",
+      "Cook soba noodles, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "duck"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 351,
+      "protein_g": 11,
+      "carbs_g": 69,
+      "fat_g": 3.1
+    }
+  },
+  {
+    "title": "Spinach Skillet",
+    "ingredients": [
+      "spinach",
+      "cilantro",
+      "green beans",
+      "garlic powder",
+      "parmesan",
+      "chard"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook cilantro, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 72,
+      "protein_g": 5,
+      "carbs_g": 15,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Bell pepper Special",
+    "ingredients": [
+      "bell pepper",
+      "pinto beans",
+      "couscous",
+      "cumin"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the bell pepper and other ingredients.",
+      "Cook pinto beans, couscous until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bell pepper"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 407,
+      "protein_g": 14,
+      "carbs_g": 83,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Yogurt Special",
+    "ingredients": [
+      "yogurt",
+      "cumin",
+      "spring onion",
+      "pork",
+      "tortillas",
+      "black beans"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook cumin, spring onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 473,
+      "protein_g": 47,
+      "carbs_g": 36,
+      "fat_g": 14.0
+    }
+  },
+  {
+    "title": "Cilantro Bowl",
+    "ingredients": [
+      "cilantro",
+      "spring onion",
+      "lamb",
+      "honey"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cilantro and other ingredients.",
+      "Cook spring onion, lamb until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cilantro"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 40,
+      "protein_g": 1,
+      "carbs_g": 9,
+      "fat_g": 0.1
+    }
+  },
+  {
+    "title": "Orange Salad",
+    "ingredients": [
+      "orange",
+      "avocado",
+      "pepper",
+      "beef"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook avocado, pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 28,
+      "carbs_g": 9,
+      "fat_g": 30
+    }
+  },
+  {
+    "title": "Mayonnaise Bowl",
+    "ingredients": [
+      "mayonnaise",
+      "tuna",
+      "spinach",
+      "spring onion",
+      "beef",
+      "cinnamon",
+      "salmon"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the mayonnaise and other ingredients.",
+      "Cook tuna, spinach until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mayonnaise"
+    ],
+    "allergens": [
+      "egg",
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 737,
+      "protein_g": 85,
+      "carbs_g": 13,
+      "fat_g": 36.5
+    }
+  },
+  {
+    "title": "Tuna Medley",
+    "ingredients": [
+      "tuna",
+      "chickpeas",
+      "butter",
+      "salt"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the tuna and other ingredients.",
+      "Cook chickpeas, butter until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tuna"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 1025,
+      "protein_g": 39,
+      "carbs_g": 27,
+      "fat_g": 85
+    }
+  },
+  {
+    "title": "Banana Skillet",
+    "ingredients": [
+      "banana",
+      "avocado",
+      "beef",
+      "chili powder",
+      "lemon"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook avocado, beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 427,
+      "protein_g": 29,
+      "carbs_g": 14,
+      "fat_g": 30.3
+    }
+  },
+  {
+    "title": "Potato Delight",
+    "ingredients": [
+      "potato",
+      "sweet potato",
+      "spinach",
+      "onion powder"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook sweet potato, spinach until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 226,
+      "protein_g": 8,
+      "carbs_g": 50,
+      "fat_g": 0.7
+    }
+  },
+  {
+    "title": "Sweet potato Skillet",
+    "ingredients": [
+      "sweet potato",
+      "coconut milk",
+      "lemon",
+      "chard"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the sweet potato and other ingredients.",
+      "Cook coconut milk, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sweet potato"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 333,
+      "protein_g": 5,
+      "carbs_g": 30,
+      "fat_g": 24.4
+    }
+  },
+  {
+    "title": "Yogurt Salad",
+    "ingredients": [
+      "yogurt",
+      "paprika",
+      "vinegar",
+      "garlic"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook paprika, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 108,
+      "protein_g": 12,
+      "carbs_g": 14,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Paprika Skillet",
+    "ingredients": [
+      "paprika",
+      "mushroom",
+      "lime",
+      "rice",
+      "ginger",
+      "eggplant"
+    ],
+    "time": "10 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the paprika and other ingredients.",
+      "Cook mushroom, lime until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "paprika"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 306,
+      "protein_g": 13,
+      "carbs_g": 49,
+      "fat_g": 6.6
+    }
+  },
+  {
+    "title": "Feta Medley",
+    "ingredients": [
+      "feta",
+      "asparagus",
+      "kidney beans",
+      "paprika",
+      "ground turkey"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook asparagus, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 189,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 8.5
+    }
+  },
+  {
+    "title": "Salmon Medley",
+    "ingredients": [
+      "salmon",
+      "mozzarella",
+      "teriyaki sauce",
+      "paprika"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook mozzarella, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 25,
+      "carbs_g": 0,
+      "fat_g": 20
+    }
+  },
+  {
+    "title": "Quinoa Sauté",
+    "ingredients": [
+      "quinoa",
+      "coriander",
+      "cinnamon",
+      "turkey"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook coriander, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 557,
+      "protein_g": 40,
+      "carbs_g": 64,
+      "fat_g": 14.5
+    }
+  },
+  {
+    "title": "Avocado Bowl",
+    "ingredients": [
+      "avocado",
+      "rice",
+      "potato",
+      "parmesan"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook rice, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 443,
+      "protein_g": 8,
+      "carbs_g": 71,
+      "fat_g": 15.4
+    }
+  },
+  {
+    "title": "Tomato Delight",
+    "ingredients": [
+      "tomato",
+      "sesame seeds",
+      "cucumber",
+      "bell pepper",
+      "bread"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook sesame seeds, cucumber until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ],
+    "allergens": [
+      "sesame",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 314,
+      "protein_g": 11,
+      "carbs_g": 59,
+      "fat_g": 3.5
+    }
+  },
+  {
+    "title": "Cumin Medley",
+    "ingredients": [
+      "cumin",
+      "turkey",
+      "cinnamon",
+      "chard",
+      "lentils"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook turkey, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 305,
+      "protein_g": 35,
+      "carbs_g": 20,
+      "fat_g": 8.9
+    }
+  },
+  {
+    "title": "Mushroom Skillet",
+    "ingredients": [
+      "mushroom",
+      "garlic powder",
+      "cheese",
+      "cinnamon",
+      "chili flakes",
+      "carrot"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook garlic powder, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 514,
+      "protein_g": 31,
+      "carbs_g": 25,
+      "fat_g": 34.0
+    }
+  },
+  {
+    "title": "Beef Bowl",
+    "ingredients": [
+      "beef",
+      "tofu",
+      "tuna",
+      "cod",
+      "quinoa",
+      "bread",
+      "bell pepper"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook tofu, tuna until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ],
+    "allergens": [
+      "fish",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1216,
+      "protein_g": 106,
+      "carbs_g": 121,
+      "fat_g": 31.3
+    }
+  },
+  {
+    "title": "Cucumber Skillet",
+    "ingredients": [
+      "cucumber",
+      "milk",
+      "mayonnaise",
+      "banana"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook milk, mayonnaise until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 61,
+      "protein_g": 3,
+      "carbs_g": 5,
+      "fat_g": 3
+    }
+  },
+  {
+    "title": "Tempeh Skillet",
+    "ingredients": [
+      "tempeh",
+      "soy sauce",
+      "chili flakes",
+      "pinto beans"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook soy sauce, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 275,
+      "protein_g": 31,
+      "carbs_g": 16,
+      "fat_g": 11
+    }
+  },
+  {
+    "title": "Honey Skillet",
+    "ingredients": [
+      "honey",
+      "onion",
+      "onion powder",
+      "sesame seeds",
+      "egg"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook onion, onion powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ],
+    "allergens": [
+      "egg",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 158,
+      "protein_g": 8,
+      "carbs_g": 19,
+      "fat_g": 6.2
+    }
+  },
+  {
+    "title": "Cucumber Skillet",
+    "ingredients": [
+      "cucumber",
+      "salt",
+      "black beans",
+      "soy sauce",
+      "mushroom",
+      "kale",
+      "turmeric"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook salt, black beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 234,
+      "protein_g": 24,
+      "carbs_g": 34,
+      "fat_g": 0.8
+    }
+  },
+  {
+    "title": "Potato Sauté",
+    "ingredients": [
+      "potato",
+      "pinto beans",
+      "salt",
+      "sweet potato",
+      "ground turkey",
+      "milk"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook pinto beans, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 413,
+      "protein_g": 33,
+      "carbs_g": 42,
+      "fat_g": 11.7
+    }
+  },
+  {
+    "title": "Mushroom Special",
+    "ingredients": [
+      "mushroom",
+      "black beans",
+      "tofu",
+      "duck",
+      "pasta",
+      "onion"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook black beans, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ],
+    "allergens": [
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 641,
+      "protein_g": 34,
+      "carbs_g": 113,
+      "fat_g": 6.9
+    }
+  },
+  {
+    "title": "Sweet potato Delight",
+    "ingredients": [
+      "sweet potato",
+      "soba noodles",
+      "cumin",
+      "asparagus",
+      "cod",
+      "bread",
+      "basil"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the sweet potato and other ingredients.",
+      "Cook soba noodles, cumin until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sweet potato"
+    ],
+    "allergens": [
+      "fish",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 433,
+      "protein_g": 29,
+      "carbs_g": 69,
+      "fat_g": 4.1
+    }
+  },
+  {
+    "title": "Parsley Delight",
+    "ingredients": [
+      "parsley",
+      "carrot",
+      "ginger",
+      "cheese",
+      "cod",
+      "basil",
+      "pork"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook carrot, ginger until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 767,
+      "protein_g": 71,
+      "carbs_g": 11,
+      "fat_g": 47.2
+    }
+  },
+  {
+    "title": "Onion powder Delight",
+    "ingredients": [
+      "onion powder",
+      "zucchini",
+      "salmon",
+      "chard",
+      "rice",
+      "garlic"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the onion powder and other ingredients.",
+      "Cook zucchini, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion powder"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 575,
+      "protein_g": 32,
+      "carbs_g": 65,
+      "fat_g": 20.9
+    }
+  },
+  {
+    "title": "Egg Skillet",
+    "ingredients": [
+      "egg",
+      "pine nuts",
+      "tofu",
+      "chickpeas",
+      "turkey",
+      "onion",
+      "teriyaki sauce"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook pine nuts, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "soy",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 547,
+      "protein_g": 50,
+      "carbs_g": 39,
+      "fat_g": 22.6
+    }
+  },
+  {
+    "title": "Pasta Salad",
+    "ingredients": [
+      "pasta",
+      "mozzarella",
+      "basil",
+      "garlic",
+      "coconut milk",
+      "honey",
+      "parmesan"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the pasta and other ingredients.",
+      "Cook mozzarella, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pasta"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 17,
+      "carbs_g": 91,
+      "fat_g": 25.5
+    }
+  },
+  {
+    "title": "Basil Delight",
+    "ingredients": [
+      "basil",
+      "turmeric",
+      "pepper",
+      "butter",
+      "lettuce",
+      "cilantro",
+      "bell pepper"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the basil and other ingredients.",
+      "Cook turmeric, pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "basil"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 748,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 81.3
+    }
+  },
+  {
+    "title": "Tempeh Sauté",
+    "ingredients": [
+      "tempeh",
+      "pork",
+      "paprika",
+      "parmesan",
+      "beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook pork, paprika until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 687,
+      "protein_g": 72,
+      "carbs_g": 9,
+      "fat_g": 39
+    }
+  },
+  {
+    "title": "Pepper Salad",
+    "ingredients": [
+      "pepper",
+      "sweet potato",
+      "lemon",
+      "tempeh",
+      "tuna",
+      "vinegar"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pepper and other ingredients.",
+      "Cook sweet potato, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pepper"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 442,
+      "protein_g": 52,
+      "carbs_g": 34,
+      "fat_g": 12.4
+    }
+  },
+  {
+    "title": "Tempeh Sauté",
+    "ingredients": [
+      "tempeh",
+      "lettuce",
+      "salmon",
+      "peas",
+      "garlic powder"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook lettuce, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 524,
+      "protein_g": 46,
+      "carbs_g": 20,
+      "fat_g": 31.5
+    }
+  },
+  {
+    "title": "Sesame seeds Delight",
+    "ingredients": [
+      "sesame seeds",
+      "ground turkey",
+      "stock",
+      "garlic"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook ground turkey, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 238,
+      "protein_g": 28,
+      "carbs_g": 11,
+      "fat_g": 9.0
+    }
+  },
+  {
+    "title": "Tomato Salad",
+    "ingredients": [
+      "tomato",
+      "milk",
+      "eggplant",
+      "green beans",
+      "stock",
+      "teriyaki sauce"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook milk, eggplant until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 157,
+      "protein_g": 10,
+      "carbs_g": 10,
+      "fat_g": 9.2
+    }
+  },
+  {
+    "title": "Seaweed Bowl",
+    "ingredients": [
+      "seaweed",
+      "chili powder",
+      "pesto",
+      "cilantro"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the seaweed and other ingredients.",
+      "Cook chili powder, pesto until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "seaweed"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Curry powder Medley",
+    "ingredients": [
+      "curry powder",
+      "ground turkey",
+      "basil",
+      "soy sauce",
+      "asparagus",
+      "seaweed"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the curry powder and other ingredients.",
+      "Cook ground turkey, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "curry powder"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 269,
+      "protein_g": 38,
+      "carbs_g": 7,
+      "fat_g": 8.5
+    }
+  },
+  {
+    "title": "Basil Medley",
+    "ingredients": [
+      "basil",
+      "garlic powder",
+      "chard",
+      "parmesan"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the basil and other ingredients.",
+      "Cook garlic powder, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "basil"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 49,
+      "protein_g": 2,
+      "carbs_g": 11,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Tofu Salad",
+    "ingredients": [
+      "tofu",
+      "tempeh",
+      "kale",
+      "vinegar",
+      "pesto"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tofu and other ingredients.",
+      "Cook tempeh, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tofu"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 271,
+      "protein_g": 27,
+      "carbs_g": 11,
+      "fat_g": 16
+    }
+  },
+  {
+    "title": "Orange Bowl",
+    "ingredients": [
+      "orange",
+      "bell pepper",
+      "paprika",
+      "chard",
+      "coriander"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook bell pepper, paprika until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 31,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "title": "Honey Medley",
+    "ingredients": [
+      "honey",
+      "curry powder",
+      "garlic powder",
+      "onion powder",
+      "apple",
+      "sweet potato",
+      "parmesan"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook curry powder, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 5,
+      "carbs_g": 40,
+      "fat_g": 0.7
+    }
+  },
+  {
+    "title": "Chili powder Medley",
+    "ingredients": [
+      "chili powder",
+      "basil",
+      "banana",
+      "garlic",
+      "mayonnaise"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chili powder and other ingredients.",
+      "Cook basil, banana until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chili powder"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 49,
+      "protein_g": 2,
+      "carbs_g": 11,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Black beans Salad",
+    "ingredients": [
+      "black beans",
+      "onion",
+      "salmon",
+      "garlic",
+      "ground beef",
+      "couscous",
+      "tofu"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the black beans and other ingredients.",
+      "Cook onion, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "black beans"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 1203,
+      "protein_g": 84,
+      "carbs_g": 123,
+      "fat_g": 41.7
+    }
+  },
+  {
+    "title": "Lettuce Medley",
+    "ingredients": [
+      "lettuce",
+      "salsa",
+      "kidney beans",
+      "eggplant",
+      "parsley"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the lettuce and other ingredients.",
+      "Cook salsa, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lettuce"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 78,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Green beans Medley",
+    "ingredients": [
+      "green beans",
+      "cinnamon",
+      "lemon",
+      "ginger",
+      "couscous"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook cinnamon, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 393,
+      "protein_g": 14,
+      "carbs_g": 82,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Tempeh Delight",
+    "ingredients": [
+      "tempeh",
+      "chickpeas",
+      "tortillas",
+      "spinach",
+      "mayonnaise",
+      "tuna",
+      "pork"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook chickpeas, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "egg",
+      "fish",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 768,
+      "protein_g": 88,
+      "carbs_g": 40,
+      "fat_g": 28.4
+    }
+  },
+  {
+    "title": "Stock Sauté",
+    "ingredients": [
+      "stock",
+      "kidney beans",
+      "salsa",
+      "vinegar"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the stock and other ingredients.",
+      "Cook kidney beans, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "stock"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Yogurt Medley",
+    "ingredients": [
+      "yogurt",
+      "honey",
+      "tempeh",
+      "carrot",
+      "avocado"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook honey, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 455,
+      "protein_g": 32,
+      "carbs_g": 31,
+      "fat_g": 26.6
+    }
+  },
+  {
+    "title": "Turkey Delight",
+    "ingredients": [
+      "turkey",
+      "rice",
+      "kale",
+      "mushroom",
+      "garlic powder",
+      "pinto beans",
+      "chard"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the turkey and other ingredients.",
+      "Cook rice, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turkey"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 466,
+      "protein_g": 35,
+      "carbs_g": 59,
+      "fat_g": 9.6
+    }
+  },
+  {
+    "title": "Spring onion Medley",
+    "ingredients": [
+      "spring onion",
+      "parmesan",
+      "chili flakes",
+      "ground beef"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook parmesan, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 290,
+      "protein_g": 27,
+      "carbs_g": 9,
+      "fat_g": 15.1
+    }
+  },
+  {
+    "title": "Parsley Bowl",
+    "ingredients": [
+      "parsley",
+      "pesto",
+      "mozzarella",
+      "duck",
+      "onion powder",
+      "cilantro",
+      "butter"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook pesto, mozzarella until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 757,
+      "protein_g": 1,
+      "carbs_g": 9,
+      "fat_g": 81.1
+    }
+  },
+  {
+    "title": "Asparagus Salad",
+    "ingredients": [
+      "asparagus",
+      "seaweed",
+      "salsa",
+      "cucumber"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the asparagus and other ingredients.",
+      "Cook seaweed, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "asparagus"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Spinach Special",
+    "ingredients": [
+      "spinach",
+      "peas",
+      "turmeric",
+      "quinoa",
+      "cumin",
+      "celery"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook peas, turmeric until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 391,
+      "protein_g": 17,
+      "carbs_g": 68,
+      "fat_g": 6.4
+    }
+  },
+  {
+    "title": "Carrot Special",
+    "ingredients": [
+      "carrot",
+      "ground beef",
+      "cilantro",
+      "lentils",
+      "tempeh"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the carrot and other ingredients.",
+      "Cook ground beef, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "carrot"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 602,
+      "protein_g": 55,
+      "carbs_g": 39,
+      "fat_g": 26.6
+    }
+  },
+  {
+    "title": "Broccoli Medley",
+    "ingredients": [
+      "broccoli",
+      "garlic",
+      "vinegar",
+      "onion powder",
+      "pine nuts",
+      "chili powder"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the broccoli and other ingredients.",
+      "Cook garlic, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "broccoli"
+    ],
+    "allergens": [
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 123,
+      "protein_g": 6,
+      "carbs_g": 27,
+      "fat_g": 1.0
+    }
+  },
+  {
+    "title": "Turmeric Salad",
+    "ingredients": [
+      "turmeric",
+      "banana",
+      "salmon",
+      "tuna",
+      "garlic powder",
+      "broccoli"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the turmeric and other ingredients.",
+      "Cook banana, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turmeric"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 507,
+      "protein_g": 60,
+      "carbs_g": 18,
+      "fat_g": 21.9
+    }
+  },
+  {
+    "title": "Honey Salad",
+    "ingredients": [
+      "honey",
+      "sweet potato",
+      "feta",
+      "mayonnaise",
+      "carrot",
+      "celery"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook sweet potato, feta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ],
+    "allergens": [
+      "celery",
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 127,
+      "protein_g": 3,
+      "carbs_g": 30,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "title": "Garlic Sauté",
+    "ingredients": [
+      "garlic",
+      "lentils",
+      "honey",
+      "turkey",
+      "curry powder",
+      "cheese",
+      "carrot"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook lentils, honey until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 797,
+      "protein_g": 63,
+      "carbs_g": 42,
+      "fat_g": 42.6
+    }
+  },
+  {
+    "title": "Shrimp Skillet",
+    "ingredients": [
+      "shrimp",
+      "celery",
+      "sesame seeds",
+      "couscous",
+      "pepper",
+      "salt"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the shrimp and other ingredients.",
+      "Cook celery, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "shrimp"
+    ],
+    "allergens": [
+      "celery",
+      "sesame",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 475,
+      "protein_g": 37,
+      "carbs_g": 77,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Beef Special",
+    "ingredients": [
+      "beef",
+      "spring onion",
+      "garlic powder",
+      "stock",
+      "basil",
+      "lamb",
+      "salmon"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook spring onion, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 619,
+      "protein_g": 54,
+      "carbs_g": 20,
+      "fat_g": 35.6
+    }
+  },
+  {
+    "title": "Sesame seeds Special",
+    "ingredients": [
+      "sesame seeds",
+      "parmesan",
+      "sweet potato",
+      "carrot",
+      "eggplant",
+      "duck",
+      "chili powder"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook parmesan, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 205,
+      "protein_g": 9,
+      "carbs_g": 31,
+      "fat_g": 6.3
+    }
+  },
+  {
+    "title": "Cheese Skillet",
+    "ingredients": [
+      "cheese",
+      "asparagus",
+      "tomato",
+      "potato",
+      "chickpeas",
+      "egg"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cheese and other ingredients.",
+      "Cook asparagus, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cheese"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 739,
+      "protein_g": 43,
+      "carbs_g": 50,
+      "fat_g": 42.3
+    }
+  },
+  {
+    "title": "Egg Salad",
+    "ingredients": [
+      "egg",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "feta",
+      "bread"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook soy sauce, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 423,
+      "protein_g": 27,
+      "carbs_g": 57,
+      "fat_g": 9
+    }
+  },
+  {
+    "title": "Feta Special",
+    "ingredients": [
+      "feta",
+      "salsa",
+      "cumin",
+      "basil",
+      "pine nuts",
+      "eggplant"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook salsa, cumin until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 78,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Celery Delight",
+    "ingredients": [
+      "celery",
+      "onion",
+      "seaweed",
+      "chicken"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the celery and other ingredients.",
+      "Cook onion, seaweed until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "celery"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 205,
+      "protein_g": 27,
+      "carbs_g": 9,
+      "fat_g": 7.1
+    }
+  },
+  {
+    "title": "Butter Salad",
+    "ingredients": [
+      "butter",
+      "lettuce",
+      "rice",
+      "potato",
+      "quinoa"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the butter and other ingredients.",
+      "Cook lettuce, rice until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "butter"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 1368,
+      "protein_g": 20,
+      "carbs_g": 126,
+      "fat_g": 87.4
+    }
+  },
+  {
+    "title": "Sesame seeds Special",
+    "ingredients": [
+      "sesame seeds",
+      "couscous",
+      "carrot",
+      "chili powder",
+      "cumin"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook couscous, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 417,
+      "protein_g": 14,
+      "carbs_g": 87,
+      "fat_g": 0.8
+    }
+  },
+  {
+    "title": "Chili powder Bowl",
+    "ingredients": [
+      "chili powder",
+      "lime",
+      "stock",
+      "chickpeas",
+      "avocado",
+      "cilantro"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the chili powder and other ingredients.",
+      "Cook lime, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chili powder"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 324,
+      "protein_g": 11,
+      "carbs_g": 36,
+      "fat_g": 18
+    }
+  },
+  {
+    "title": "Kidney beans Bowl",
+    "ingredients": [
+      "kidney beans",
+      "pork",
+      "salt",
+      "carrot",
+      "broccoli",
+      "green beans"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the kidney beans and other ingredients.",
+      "Cook pork, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "kidney beans"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 317,
+      "protein_g": 31,
+      "carbs_g": 17,
+      "fat_g": 13.6
+    }
+  },
+  {
+    "title": "Lettuce Salad",
+    "ingredients": [
+      "lettuce",
+      "soba noodles",
+      "potato",
+      "broccoli"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the lettuce and other ingredients.",
+      "Cook soba noodles, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lettuce"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 111,
+      "protein_g": 5,
+      "carbs_g": 24,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Banana Salad",
+    "ingredients": [
+      "banana",
+      "spinach",
+      "pasta",
+      "paprika"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook spinach, pasta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 394,
+      "protein_g": 16,
+      "carbs_g": 79,
+      "fat_g": 1.4
+    }
+  },
+  {
+    "title": "Mayonnaise Medley",
+    "ingredients": [
+      "mayonnaise",
+      "asparagus",
+      "parsley",
+      "avocado",
+      "yogurt",
+      "black beans"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the mayonnaise and other ingredients.",
+      "Cook asparagus, parsley until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mayonnaise"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 351,
+      "protein_g": 21,
+      "carbs_g": 36,
+      "fat_g": 15.9
+    }
+  },
+  {
+    "title": "Lime Bowl",
+    "ingredients": [
+      "lime",
+      "salt",
+      "cod",
+      "cream",
+      "salsa",
+      "pine nuts"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the lime and other ingredients.",
+      "Cook salt, cod until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lime"
+    ],
+    "allergens": [
+      "fish",
+      "milk",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 82,
+      "protein_g": 18,
+      "carbs_g": 0,
+      "fat_g": 1
+    }
+  },
+  {
+    "title": "Spring onion Salad",
+    "ingredients": [
+      "spring onion",
+      "egg",
+      "green beans",
+      "pork"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook egg, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 34,
+      "carbs_g": 10,
+      "fat_g": 19.1
+    }
+  },
+  {
+    "title": "Orange Sauté",
+    "ingredients": [
+      "orange",
+      "lime",
+      "pine nuts",
+      "pasta",
+      "pinto beans",
+      "banana",
+      "tofu"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook lime, pine nuts until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ],
+    "allergens": [
+      "soy",
+      "tree_nuts",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 447,
+      "protein_g": 21,
+      "carbs_g": 77,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Bell pepper Sauté",
+    "ingredients": [
+      "bell pepper",
+      "turmeric",
+      "garlic",
+      "apple"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the bell pepper and other ingredients.",
+      "Cook turmeric, garlic until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bell pepper"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 80,
+      "protein_g": 3,
+      "carbs_g": 17,
+      "fat_g": 0.8
+    }
+  },
+  {
+    "title": "Apple Salad",
+    "ingredients": [
+      "apple",
+      "salsa",
+      "garlic powder",
+      "shrimp"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook salsa, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ],
+    "allergens": [
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 148,
+      "protein_g": 26,
+      "carbs_g": 11,
+      "fat_g": 0.8
+    }
+  },
+  {
+    "title": "Cheese Delight",
+    "ingredients": [
+      "cheese",
+      "pasta",
+      "kale",
+      "pesto",
+      "duck"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cheese and other ingredients.",
+      "Cook pasta, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cheese"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 773,
+      "protein_g": 38,
+      "carbs_g": 76,
+      "fat_g": 34
+    }
+  },
+  {
+    "title": "Honey Bowl",
+    "ingredients": [
+      "honey",
+      "teriyaki sauce",
+      "peas",
+      "stock",
+      "orange",
+      "seaweed"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook teriyaki sauce, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Quinoa Bowl",
+    "ingredients": [
+      "quinoa",
+      "garlic powder",
+      "curry powder",
+      "mayonnaise",
+      "teriyaki sauce"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook garlic powder, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 417,
+      "protein_g": 16,
+      "carbs_g": 75,
+      "fat_g": 6.5
+    }
+  },
+  {
+    "title": "Cumin Salad",
+    "ingredients": [
+      "cumin",
+      "kidney beans",
+      "potato",
+      "ground beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook kidney beans, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 327,
+      "protein_g": 28,
+      "carbs_g": 17,
+      "fat_g": 15.1
+    }
+  },
+  {
+    "title": "Lemon Special",
+    "ingredients": [
+      "lemon",
+      "mozzarella",
+      "sesame seeds",
+      "orange"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the lemon and other ingredients.",
+      "Cook mozzarella, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lemon"
+    ],
+    "allergens": [
+      "milk",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 17,
+      "protein_g": 1,
+      "carbs_g": 5,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "title": "Turmeric Salad",
+    "ingredients": [
+      "turmeric",
+      "garlic",
+      "bread",
+      "couscous",
+      "peas",
+      "orange",
+      "coconut milk"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the turmeric and other ingredients.",
+      "Cook garlic, bread until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turmeric"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 920,
+      "protein_g": 26,
+      "carbs_g": 142,
+      "fat_g": 28.1
+    }
+  },
+  {
+    "title": "Onion Sauté",
+    "ingredients": [
+      "onion",
+      "salmon",
+      "broccoli",
+      "rice",
+      "cucumber",
+      "black beans"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the onion and other ingredients.",
+      "Cook salmon, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 692,
+      "protein_g": 42,
+      "carbs_g": 85,
+      "fat_g": 21.3
+    }
+  },
+  {
+    "title": "Pine nuts Salad",
+    "ingredients": [
+      "pine nuts",
+      "honey",
+      "cinnamon",
+      "pinto beans"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook honey, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ],
+    "allergens": [
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Cod Medley",
+    "ingredients": [
+      "cod",
+      "coriander",
+      "cilantro",
+      "beef",
+      "onion",
+      "tortillas",
+      "soba noodles"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook coriander, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ],
+    "allergens": [
+      "fish",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 372,
+      "protein_g": 45,
+      "carbs_g": 9,
+      "fat_g": 16.1
+    }
+  },
+  {
+    "title": "Cilantro Medley",
+    "ingredients": [
+      "cilantro",
+      "rice",
+      "vinegar",
+      "parsley",
+      "turmeric",
+      "couscous",
+      "ginger"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cilantro and other ingredients.",
+      "Cook rice, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cilantro"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 582,
+      "protein_g": 17,
+      "carbs_g": 122,
+      "fat_g": 0.9
+    }
+  },
+  {
+    "title": "Black beans Skillet",
+    "ingredients": [
+      "black beans",
+      "parsley",
+      "mayonnaise",
+      "feta",
+      "cinnamon",
+      "asparagus"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the black beans and other ingredients.",
+      "Cook parsley, mayonnaise until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "black beans"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 132,
+      "protein_g": 9,
+      "carbs_g": 24,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Apple Bowl",
+    "ingredients": [
+      "apple",
+      "kale",
+      "carrot",
+      "eggplant",
+      "basil",
+      "soba noodles"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook kale, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ],
+    "allergens": [
+      "egg",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 119,
+      "protein_g": 7,
+      "carbs_g": 11,
+      "fat_g": 6.2
+    }
+  },
+  {
+    "title": "Sesame seeds Special",
+    "ingredients": [
+      "sesame seeds",
+      "chili flakes",
+      "pesto",
+      "lettuce",
+      "soy sauce"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook chili flakes, pesto until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "sesame",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 80,
+      "protein_g": 12,
+      "carbs_g": 7,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Sesame seeds Bowl",
+    "ingredients": [
+      "sesame seeds",
+      "tofu",
+      "turmeric",
+      "cinnamon",
+      "couscous"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook tofu, turmeric until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "sesame",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 452,
+      "protein_g": 21,
+      "carbs_g": 79,
+      "fat_g": 5.6
+    }
+  },
+  {
+    "title": "Quinoa Skillet",
+    "ingredients": [
+      "quinoa",
+      "lamb",
+      "soba noodles",
+      "chili powder",
+      "kale"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook lamb, soba noodles until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 368,
+      "protein_g": 14,
+      "carbs_g": 64,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Bread Delight",
+    "ingredients": [
+      "bread",
+      "orange",
+      "teriyaki sauce",
+      "cream",
+      "salt"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook orange, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 265,
+      "protein_g": 9,
+      "carbs_g": 49,
+      "fat_g": 3
+    }
+  },
+  {
+    "title": "Quinoa Skillet",
+    "ingredients": [
+      "quinoa",
+      "sweet potato",
+      "parmesan",
+      "sesame seeds",
+      "onion powder"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook sweet potato, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ],
+    "allergens": [
+      "milk",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 494,
+      "protein_g": 17,
+      "carbs_g": 93,
+      "fat_g": 6.2
+    }
+  },
+  {
+    "title": "Soba noodles Delight",
+    "ingredients": [
+      "soba noodles",
+      "turmeric",
+      "ground beef",
+      "ground turkey",
+      "lemon",
+      "mozzarella",
+      "sweet potato"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the soba noodles and other ingredients.",
+      "Cook turmeric, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soba noodles"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 542,
+      "protein_g": 55,
+      "carbs_g": 25,
+      "fat_g": 23.9
+    }
+  },
+  {
+    "title": "Mayonnaise Skillet",
+    "ingredients": [
+      "mayonnaise",
+      "spinach",
+      "chard",
+      "sesame seeds",
+      "carrot",
+      "ginger",
+      "salsa"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the mayonnaise and other ingredients.",
+      "Cook spinach, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mayonnaise"
+    ],
+    "allergens": [
+      "egg",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 64,
+      "protein_g": 4,
+      "carbs_g": 14,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Pepper Medley",
+    "ingredients": [
+      "pepper",
+      "avocado",
+      "soy sauce",
+      "lettuce",
+      "chicken",
+      "couscous",
+      "eggplant"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the pepper and other ingredients.",
+      "Cook avocado, soy sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pepper"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 859,
+      "protein_g": 59,
+      "carbs_g": 94,
+      "fat_g": 28.6
+    }
+  },
+  {
+    "title": "Yogurt Delight",
+    "ingredients": [
+      "yogurt",
+      "eggplant",
+      "cream",
+      "chili powder"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook eggplant, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 137,
+      "protein_g": 16,
+      "carbs_g": 4,
+      "fat_g": 6.4
+    }
+  },
+  {
+    "title": "Salmon Skillet",
+    "ingredients": [
+      "salmon",
+      "carrot",
+      "lamb",
+      "stock",
+      "garlic",
+      "olive oil"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook carrot, lamb until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 1254,
+      "protein_g": 28,
+      "carbs_g": 21,
+      "fat_g": 120.7
+    }
+  },
+  {
+    "title": "Coconut milk Special",
+    "ingredients": [
+      "coconut milk",
+      "cinnamon",
+      "soba noodles",
+      "vinegar"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook cinnamon, soba noodles until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fat_g": 24
+    }
+  },
+  {
+    "title": "Beef Delight",
+    "ingredients": [
+      "beef",
+      "milk",
+      "cilantro",
+      "tomato",
+      "feta",
+      "bell pepper"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook milk, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 31,
+      "carbs_g": 15,
+      "fat_g": 18.5
+    }
+  },
+  {
+    "title": "Couscous Delight",
+    "ingredients": [
+      "couscous",
+      "tortillas",
+      "eggplant",
+      "milk",
+      "carrot",
+      "zucchini"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the couscous and other ingredients.",
+      "Cook tortillas, eggplant until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "couscous"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 556,
+      "protein_g": 23,
+      "carbs_g": 93,
+      "fat_g": 9.8
+    }
+  },
+  {
+    "title": "Cucumber Bowl",
+    "ingredients": [
+      "cucumber",
+      "lime",
+      "coriander",
+      "sweet potato",
+      "shrimp",
+      "pasta",
+      "parsley"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook lime, coriander until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ],
+    "allergens": [
+      "shellfish",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 556,
+      "protein_g": 39,
+      "carbs_g": 95,
+      "fat_g": 1.4
+    }
+  },
+  {
+    "title": "Pasta Special",
+    "ingredients": [
+      "pasta",
+      "tuna",
+      "broccoli",
+      "coconut milk",
+      "lime",
+      "celery"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pasta and other ingredients.",
+      "Cook tuna, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pasta"
+    ],
+    "allergens": [
+      "celery",
+      "fish",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 779,
+      "protein_g": 48,
+      "carbs_g": 87,
+      "fat_g": 26.4
+    }
+  },
+  {
+    "title": "Ground beef Special",
+    "ingredients": [
+      "ground beef",
+      "pepper",
+      "cinnamon",
+      "bread",
+      "coconut milk",
+      "olive oil",
+      "tomato"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the ground beef and other ingredients.",
+      "Cook pepper, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground beef"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1647,
+      "protein_g": 38,
+      "carbs_g": 58,
+      "fat_g": 142.2
+    }
+  },
+  {
+    "title": "Soy sauce Sauté",
+    "ingredients": [
+      "soy sauce",
+      "soba noodles",
+      "olive oil",
+      "chard"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the soy sauce and other ingredients.",
+      "Cook soba noodles, olive oil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soy sauce"
+    ],
+    "allergens": [
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 964,
+      "protein_g": 12,
+      "carbs_g": 7,
+      "fat_g": 100
+    }
+  },
+  {
+    "title": "Parsley Bowl",
+    "ingredients": [
+      "parsley",
+      "lentils",
+      "basil",
+      "tofu",
+      "green beans"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook lentils, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 192,
+      "protein_g": 17,
+      "carbs_g": 22,
+      "fat_g": 5.4
+    }
+  },
+  {
+    "title": "Pesto Bowl",
+    "ingredients": [
+      "pesto",
+      "onion",
+      "broccoli",
+      "cucumber",
+      "beef"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the pesto and other ingredients.",
+      "Cook onion, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pesto"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 324,
+      "protein_g": 30,
+      "carbs_g": 16,
+      "fat_g": 15.5
+    }
+  },
+  {
+    "title": "Sesame seeds Skillet",
+    "ingredients": [
+      "sesame seeds",
+      "parsley",
+      "pepper",
+      "kidney beans",
+      "chickpeas",
+      "onion powder",
+      "butter"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook parsley, pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "milk",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 921,
+      "protein_g": 10,
+      "carbs_g": 36,
+      "fat_g": 84.1
+    }
+  },
+  {
+    "title": "Bell pepper Sauté",
+    "ingredients": [
+      "bell pepper",
+      "potato",
+      "tomato",
+      "chili powder"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the bell pepper and other ingredients.",
+      "Cook potato, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bell pepper"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 126,
+      "protein_g": 4,
+      "carbs_g": 27,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Egg Special",
+    "ingredients": [
+      "egg",
+      "green beans",
+      "curry powder",
+      "avocado",
+      "pepper"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook green beans, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 238,
+      "protein_g": 8,
+      "carbs_g": 10,
+      "fat_g": 21
+    }
+  },
+  {
+    "title": "Lentils Bowl",
+    "ingredients": [
+      "lentils",
+      "zucchini",
+      "duck",
+      "lettuce",
+      "lamb",
+      "pesto",
+      "chicken"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the lentils and other ingredients.",
+      "Cook zucchini, duck until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lentils"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 281,
+      "protein_g": 35,
+      "carbs_g": 20,
+      "fat_g": 7.4
+    }
+  },
+  {
+    "title": "Onion Sauté",
+    "ingredients": [
+      "onion",
+      "pine nuts",
+      "avocado",
+      "feta",
+      "peas"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the onion and other ingredients.",
+      "Cook pine nuts, avocado until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion"
+    ],
+    "allergens": [
+      "milk",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein_g": 3,
+      "carbs_g": 18,
+      "fat_g": 15.1
+    }
+  },
+  {
+    "title": "Ginger Bowl",
+    "ingredients": [
+      "ginger",
+      "soy sauce",
+      "lemon",
+      "sesame seeds",
+      "turkey",
+      "lamb"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook soy sauce, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ],
+    "allergens": [
+      "sesame",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 286,
+      "protein_g": 39,
+      "carbs_g": 12,
+      "fat_g": 8.8
+    }
+  },
+  {
+    "title": "Garlic powder Delight",
+    "ingredients": [
+      "garlic powder",
+      "carrot",
+      "spinach",
+      "cilantro",
+      "beef",
+      "cucumber",
+      "chard"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the garlic powder and other ingredients.",
+      "Cook carrot, spinach until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic powder"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 363,
+      "protein_g": 32,
+      "carbs_g": 25,
+      "fat_g": 16.1
+    }
+  },
+  {
+    "title": "Salmon Skillet",
+    "ingredients": [
+      "salmon",
+      "soy sauce",
+      "milk",
+      "pinto beans",
+      "tomato",
+      "ground beef",
+      "honey"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook soy sauce, milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ],
+    "allergens": [
+      "fish",
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 689,
+      "protein_g": 67,
+      "carbs_g": 16,
+      "fat_g": 38.2
+    }
+  },
+  {
+    "title": "Coconut milk Special",
+    "ingredients": [
+      "coconut milk",
+      "tortillas",
+      "ground beef",
+      "tomato",
+      "sesame seeds",
+      "cinnamon"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook tortillas, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ],
+    "allergens": [
+      "milk",
+      "sesame",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 498,
+      "protein_g": 29,
+      "carbs_g": 9,
+      "fat_g": 39.2
+    }
+  },
+  {
+    "title": "Green beans Salad",
+    "ingredients": [
+      "green beans",
+      "chili powder",
+      "chili flakes",
+      "coriander",
+      "parsley",
+      "egg"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook chili powder, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 78,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Pinto beans Salad",
+    "ingredients": [
+      "pinto beans",
+      "teriyaki sauce",
+      "eggplant",
+      "garlic powder",
+      "duck",
+      "ground beef"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook teriyaki sauce, eggplant until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 377,
+      "protein_g": 34,
+      "carbs_g": 12,
+      "fat_g": 21.5
+    }
+  },
+  {
+    "title": "Feta Sauté",
+    "ingredients": [
+      "feta",
+      "turkey",
+      "pasta",
+      "onion",
+      "bell pepper"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook turkey, pasta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 631,
+      "protein_g": 41,
+      "carbs_g": 90,
+      "fat_g": 9.9
+    }
+  },
+  {
+    "title": "Banana Salad",
+    "ingredients": [
+      "banana",
+      "pine nuts",
+      "salsa",
+      "mozzarella",
+      "garlic powder",
+      "egg"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook pine nuts, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ],
+    "allergens": [
+      "egg",
+      "milk",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 127,
+      "protein_g": 8,
+      "carbs_g": 12,
+      "fat_g": 6.5
+    }
+  },
+  {
+    "title": "Seaweed Special",
+    "ingredients": [
+      "seaweed",
+      "potato",
+      "celery",
+      "zucchini"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the seaweed and other ingredients.",
+      "Cook potato, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "seaweed"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 77,
+      "protein_g": 2,
+      "carbs_g": 17,
+      "fat_g": 0.1
+    }
+  },
+  {
+    "title": "Parsley Delight",
+    "ingredients": [
+      "parsley",
+      "olive oil",
+      "pinto beans",
+      "shrimp",
+      "cod"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook olive oil, pinto beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ],
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 1065,
+      "protein_g": 42,
+      "carbs_g": 0,
+      "fat_g": 101.3
+    }
+  },
+  {
+    "title": "Salt Bowl",
+    "ingredients": [
+      "salt",
+      "tuna",
+      "butter",
+      "eggplant",
+      "pesto",
+      "salsa"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the salt and other ingredients.",
+      "Cook tuna, butter until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salt"
+    ],
+    "allergens": [
+      "egg",
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 939,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fat_g": 88
+    }
+  },
+  {
+    "title": "Peas Bowl",
+    "ingredients": [
+      "peas",
+      "garlic",
+      "kale",
+      "honey",
+      "onion",
+      "tomato",
+      "orange"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the peas and other ingredients.",
+      "Cook garlic, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "peas"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 107,
+      "protein_g": 4,
+      "carbs_g": 24,
+      "fat_g": 0.8
+    }
+  },
+  {
+    "title": "Pinto beans Medley",
+    "ingredients": [
+      "pinto beans",
+      "pesto",
+      "salsa",
+      "shrimp",
+      "eggplant"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook pesto, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ],
+    "allergens": [
+      "egg",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 177,
+      "protein_g": 30,
+      "carbs_g": 1,
+      "fat_g": 6.3
+    }
+  },
+  {
+    "title": "Asparagus Salad",
+    "ingredients": [
+      "asparagus",
+      "avocado",
+      "sesame seeds",
+      "tomato",
+      "salt"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the asparagus and other ingredients.",
+      "Cook avocado, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "asparagus"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 178,
+      "protein_g": 3,
+      "carbs_g": 13,
+      "fat_g": 15.2
+    }
+  },
+  {
+    "title": "Garlic Sauté",
+    "ingredients": [
+      "garlic",
+      "peas",
+      "cream",
+      "onion powder",
+      "celery"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook peas, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ],
+    "allergens": [
+      "celery",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 89,
+      "protein_g": 3,
+      "carbs_g": 20,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Teriyaki sauce Special",
+    "ingredients": [
+      "teriyaki sauce",
+      "salsa",
+      "seaweed",
+      "yogurt"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the teriyaki sauce and other ingredients.",
+      "Cook salsa, seaweed until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "teriyaki sauce"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 59,
+      "protein_g": 10,
+      "carbs_g": 3,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Paprika Delight",
+    "ingredients": [
+      "paprika",
+      "shrimp",
+      "cheese",
+      "duck",
+      "cod"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the paprika and other ingredients.",
+      "Cook shrimp, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "paprika"
+    ],
+    "allergens": [
+      "fish",
+      "milk",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 583,
+      "protein_g": 67,
+      "carbs_g": 1,
+      "fat_g": 34.3
+    }
+  },
+  {
+    "title": "Salmon Salad",
+    "ingredients": [
+      "salmon",
+      "banana",
+      "mushroom",
+      "pine nuts",
+      "garlic",
+      "tempeh",
+      "tortillas"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook banana, mushroom until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ],
+    "allergens": [
+      "fish",
+      "soy",
+      "tree_nuts",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 546,
+      "protein_g": 49,
+      "carbs_g": 23,
+      "fat_g": 31.8
+    }
+  },
+  {
+    "title": "Beef Sauté",
+    "ingredients": [
+      "beef",
+      "tofu",
+      "orange",
+      "black beans"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook tofu, orange until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 458,
+      "protein_g": 43,
+      "carbs_g": 26,
+      "fat_g": 20.5
+    }
+  },
+  {
+    "title": "Ground turkey Medley",
+    "ingredients": [
+      "ground turkey",
+      "couscous",
+      "pesto",
+      "pork",
+      "green beans",
+      "garlic powder",
+      "tortillas"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the ground turkey and other ingredients.",
+      "Cook couscous, pesto until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground turkey"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 856,
+      "protein_g": 68,
+      "carbs_g": 88,
+      "fat_g": 22.6
+    }
+  },
+  {
+    "title": "Cucumber Salad",
+    "ingredients": [
+      "cucumber",
+      "apple",
+      "coconut milk",
+      "chili flakes",
+      "cumin"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook apple, coconut milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fat_g": 24
+    }
+  },
+  {
+    "title": "Broccoli Salad",
+    "ingredients": [
+      "broccoli",
+      "chard",
+      "tortillas",
+      "paprika",
+      "chili flakes"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the broccoli and other ingredients.",
+      "Cook chard, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "broccoli"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 34,
+      "protein_g": 3,
+      "carbs_g": 7,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Cheese Bowl",
+    "ingredients": [
+      "cheese",
+      "sweet potato",
+      "tempeh",
+      "pine nuts",
+      "potato",
+      "chickpeas",
+      "onion powder"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cheese and other ingredients.",
+      "Cook sweet potato, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cheese"
+    ],
+    "allergens": [
+      "milk",
+      "soy",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 964,
+      "protein_g": 58,
+      "carbs_g": 83,
+      "fat_g": 47.3
+    }
+  },
+  {
+    "title": "Tomato Skillet",
+    "ingredients": [
+      "tomato",
+      "honey",
+      "pork",
+      "asparagus"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook honey, pork until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 28,
+      "carbs_g": 4,
+      "fat_g": 13.2
+    }
+  },
+  {
+    "title": "Onion Special",
+    "ingredients": [
+      "onion",
+      "soy sauce",
+      "green beans",
+      "couscous",
+      "tofu",
+      "salmon"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the onion and other ingredients.",
+      "Cook soy sauce, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 852,
+      "protein_g": 59,
+      "carbs_g": 95,
+      "fat_g": 25.7
+    }
+  },
+  {
+    "title": "Beef Special",
+    "ingredients": [
+      "beef",
+      "mayonnaise",
+      "orange",
+      "cheese",
+      "paprika",
+      "ground turkey",
+      "cinnamon"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook mayonnaise, orange until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 841,
+      "protein_g": 77,
+      "carbs_g": 1,
+      "fat_g": 56.5
+    }
+  },
+  {
+    "title": "Carrot Bowl",
+    "ingredients": [
+      "carrot",
+      "tofu",
+      "stock",
+      "olive oil",
+      "mozzarella",
+      "butter"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the carrot and other ingredients.",
+      "Cook tofu, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "carrot"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 1718,
+      "protein_g": 9,
+      "carbs_g": 12,
+      "fat_g": 186.2
+    }
+  },
+  {
+    "title": "Potato Special",
+    "ingredients": [
+      "potato",
+      "lemon",
+      "lime",
+      "carrot",
+      "paprika"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook lemon, lime until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 135,
+      "protein_g": 4,
+      "carbs_g": 32,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Tuna Bowl",
+    "ingredients": [
+      "tuna",
+      "lettuce",
+      "asparagus",
+      "potato"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tuna and other ingredients.",
+      "Cook lettuce, asparagus until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tuna"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 221,
+      "protein_g": 32,
+      "carbs_g": 17,
+      "fat_g": 1.1
+    }
+  },
+  {
+    "title": "Teriyaki sauce Medley",
+    "ingredients": [
+      "teriyaki sauce",
+      "salmon",
+      "onion",
+      "basil"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the teriyaki sauce and other ingredients.",
+      "Cook salmon, onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "teriyaki sauce"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 26,
+      "carbs_g": 9,
+      "fat_g": 20.1
+    }
+  },
+  {
+    "title": "Avocado Medley",
+    "ingredients": [
+      "avocado",
+      "green beans",
+      "broccoli",
+      "beef",
+      "bread",
+      "garlic powder"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook green beans, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 758,
+      "protein_g": 42,
+      "carbs_g": 76,
+      "fat_g": 33.9
+    }
+  },
+  {
+    "title": "Soy sauce Sauté",
+    "ingredients": [
+      "soy sauce",
+      "paprika",
+      "cream",
+      "pine nuts"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the soy sauce and other ingredients.",
+      "Cook paprika, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soy sauce"
+    ],
+    "allergens": [
+      "milk",
+      "soy",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 80,
+      "protein_g": 12,
+      "carbs_g": 7,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Cream Delight",
+    "ingredients": [
+      "cream",
+      "onion powder",
+      "tortillas",
+      "lamb",
+      "avocado"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cream and other ingredients.",
+      "Cook onion powder, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cream"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein_g": 3,
+      "carbs_g": 18,
+      "fat_g": 15.1
+    }
+  },
+  {
+    "title": "Chard Salad",
+    "ingredients": [
+      "chard",
+      "tomato",
+      "salt",
+      "cod"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chard and other ingredients.",
+      "Cook tomato, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chard"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 100,
+      "protein_g": 19,
+      "carbs_g": 4,
+      "fat_g": 1.2
+    }
+  },
+  {
+    "title": "Paprika Special",
+    "ingredients": [
+      "paprika",
+      "mushroom",
+      "cinnamon",
+      "carrot",
+      "stock"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the paprika and other ingredients.",
+      "Cook mushroom, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "paprika"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 63,
+      "protein_g": 4,
+      "carbs_g": 13,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Lamb Sauté",
+    "ingredients": [
+      "lamb",
+      "mushroom",
+      "lemon",
+      "honey",
+      "cheese",
+      "tempeh"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lamb and other ingredients.",
+      "Cook mushroom, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lamb"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 636,
+      "protein_g": 48,
+      "carbs_g": 18,
+      "fat_g": 44.6
+    }
+  },
+  {
+    "title": "Cod Skillet",
+    "ingredients": [
+      "cod",
+      "shrimp",
+      "peas",
+      "chili powder",
+      "egg",
+      "cucumber",
+      "mozzarella"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook shrimp, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ],
+    "allergens": [
+      "egg",
+      "fish",
+      "milk",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 259,
+      "protein_g": 48,
+      "carbs_g": 1,
+      "fat_g": 7.3
+    }
+  },
+  {
+    "title": "Cod Special",
+    "ingredients": [
+      "cod",
+      "yogurt",
+      "banana",
+      "pinto beans"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook yogurt, banana until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 141,
+      "protein_g": 28,
+      "carbs_g": 3,
+      "fat_g": 1.4
+    }
+  },
+  {
+    "title": "Chard Delight",
+    "ingredients": [
+      "chard",
+      "chili powder",
+      "kidney beans",
+      "tomato",
+      "honey",
+      "rice"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the chard and other ingredients.",
+      "Cook chili powder, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chard"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 224,
+      "protein_g": 5,
+      "carbs_g": 49,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Tortillas Salad",
+    "ingredients": [
+      "tortillas",
+      "soba noodles",
+      "celery",
+      "banana",
+      "yogurt",
+      "cilantro",
+      "onion powder"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tortillas and other ingredients.",
+      "Cook soba noodles, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tortillas"
+    ],
+    "allergens": [
+      "celery",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 99,
+      "protein_g": 11,
+      "carbs_g": 12,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "title": "Garlic Delight",
+    "ingredients": [
+      "garlic",
+      "cucumber",
+      "butter",
+      "basil",
+      "sweet potato"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook cucumber, butter until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 852,
+      "protein_g": 4,
+      "carbs_g": 31,
+      "fat_g": 81.6
+    }
+  },
+  {
+    "title": "Vinegar Delight",
+    "ingredients": [
+      "vinegar",
+      "paprika",
+      "bell pepper",
+      "mushroom"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the vinegar and other ingredients.",
+      "Cook paprika, bell pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "vinegar"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 53,
+      "protein_g": 4,
+      "carbs_g": 9,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Parsley Special",
+    "ingredients": [
+      "parsley",
+      "kale",
+      "ground beef",
+      "green beans",
+      "tomato",
+      "tuna",
+      "feta"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook kale, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 412,
+      "protein_g": 57,
+      "carbs_g": 4,
+      "fat_g": 16.2
+    }
+  },
+  {
+    "title": "Chicken Delight",
+    "ingredients": [
+      "chicken",
+      "kidney beans",
+      "cheese",
+      "apple",
+      "mozzarella"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the chicken and other ingredients.",
+      "Cook kidney beans, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chicken"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 567,
+      "protein_g": 51,
+      "carbs_g": 1,
+      "fat_g": 40
+    }
+  },
+  {
+    "title": "Honey Special",
+    "ingredients": [
+      "honey",
+      "cheese",
+      "parmesan",
+      "seaweed",
+      "lamb",
+      "tortillas",
+      "soba noodles"
+    ],
+    "time": "10 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook cheese, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 402,
+      "protein_g": 25,
+      "carbs_g": 1,
+      "fat_g": 33
+    }
+  },
+  {
+    "title": "Cream Bowl",
+    "ingredients": [
+      "cream",
+      "salt",
+      "chickpeas",
+      "lamb"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cream and other ingredients.",
+      "Cook salt, chickpeas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cream"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 164,
+      "protein_g": 9,
+      "carbs_g": 27,
+      "fat_g": 3
+    }
+  },
+  {
+    "title": "Broccoli Bowl",
+    "ingredients": [
+      "broccoli",
+      "kidney beans",
+      "peas",
+      "bread"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the broccoli and other ingredients.",
+      "Cook kidney beans, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "broccoli"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 299,
+      "protein_g": 12,
+      "carbs_g": 56,
+      "fat_g": 3.4
+    }
+  },
+  {
+    "title": "Banana Salad",
+    "ingredients": [
+      "banana",
+      "bread",
+      "basil",
+      "bell pepper",
+      "chili powder",
+      "chicken",
+      "quinoa"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook bread, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 829,
+      "protein_g": 50,
+      "carbs_g": 119,
+      "fat_g": 16.3
+    }
+  },
+  {
+    "title": "Duck Delight",
+    "ingredients": [
+      "duck",
+      "pasta",
+      "basil",
+      "chickpeas",
+      "pine nuts",
+      "beef",
+      "sweet potato"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the duck and other ingredients.",
+      "Cook pasta, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "duck"
+    ],
+    "allergens": [
+      "tree_nuts",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 871,
+      "protein_g": 50,
+      "carbs_g": 122,
+      "fat_g": 19.1
+    }
+  },
+  {
+    "title": "Cream Special",
+    "ingredients": [
+      "cream",
+      "feta",
+      "parmesan",
+      "turmeric"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cream and other ingredients.",
+      "Cook feta, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cream"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Kale Special",
+    "ingredients": [
+      "kale",
+      "pork",
+      "stock",
+      "lemon"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the kale and other ingredients.",
+      "Cook pork, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "kale"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 259,
+      "protein_g": 28,
+      "carbs_g": 5,
+      "fat_g": 13.3
+    }
+  },
+  {
+    "title": "Avocado Bowl",
+    "ingredients": [
+      "avocado",
+      "black beans",
+      "cinnamon",
+      "ground turkey",
+      "garlic powder"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook black beans, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 39,
+      "carbs_g": 44,
+      "fat_g": 24.5
+    }
+  },
+  {
+    "title": "Ground beef Salad",
+    "ingredients": [
+      "ground beef",
+      "kidney beans",
+      "quinoa",
+      "cumin",
+      "feta",
+      "tuna",
+      "lentils"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the ground beef and other ingredients.",
+      "Cook kidney beans, quinoa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground beef"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 878,
+      "protein_g": 79,
+      "carbs_g": 84,
+      "fat_g": 22.4
+    }
+  },
+  {
+    "title": "Cumin Salad",
+    "ingredients": [
+      "cumin",
+      "egg",
+      "celery",
+      "parsley",
+      "spinach",
+      "salsa",
+      "eggplant"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook egg, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ],
+    "allergens": [
+      "celery",
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 179,
+      "protein_g": 15,
+      "carbs_g": 6,
+      "fat_g": 12.4
+    }
+  },
+  {
+    "title": "Tortillas Sauté",
+    "ingredients": [
+      "tortillas",
+      "carrot",
+      "onion powder",
+      "coriander",
+      "lime",
+      "honey",
+      "potato"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the tortillas and other ingredients.",
+      "Cook carrot, onion powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tortillas"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 158,
+      "protein_g": 4,
+      "carbs_g": 36,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Peas Delight",
+    "ingredients": [
+      "peas",
+      "tofu",
+      "onion",
+      "sweet potato",
+      "eggplant"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the peas and other ingredients.",
+      "Cook tofu, onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "peas"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 17,
+      "carbs_g": 32,
+      "fat_g": 11.2
+    }
+  },
+  {
+    "title": "Orange Delight",
+    "ingredients": [
+      "orange",
+      "soba noodles",
+      "tofu",
+      "bread",
+      "honey",
+      "mayonnaise"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook soba noodles, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ],
+    "allergens": [
+      "egg",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 341,
+      "protein_g": 17,
+      "carbs_g": 51,
+      "fat_g": 8
+    }
+  },
+  {
+    "title": "Feta Skillet",
+    "ingredients": [
+      "feta",
+      "cucumber",
+      "cod",
+      "pasta"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook cucumber, cod until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ],
+    "allergens": [
+      "fish",
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 453,
+      "protein_g": 31,
+      "carbs_g": 75,
+      "fat_g": 2
+    }
+  },
+  {
+    "title": "Bread Delight",
+    "ingredients": [
+      "bread",
+      "paprika",
+      "basil",
+      "cilantro",
+      "tomato"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook paprika, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 283,
+      "protein_g": 10,
+      "carbs_g": 53,
+      "fat_g": 3.2
+    }
+  },
+  {
+    "title": "Pine nuts Medley",
+    "ingredients": [
+      "pine nuts",
+      "teriyaki sauce",
+      "chili powder",
+      "spinach"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook teriyaki sauce, chili powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ],
+    "allergens": [
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 23,
+      "protein_g": 3,
+      "carbs_g": 4,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "title": "Lamb Sauté",
+    "ingredients": [
+      "lamb",
+      "bread",
+      "cucumber",
+      "teriyaki sauce",
+      "coriander",
+      "quinoa"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lamb and other ingredients.",
+      "Cook bread, cucumber until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lamb"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 633,
+      "protein_g": 23,
+      "carbs_g": 113,
+      "fat_g": 9
+    }
+  },
+  {
+    "title": "Coconut milk Salad",
+    "ingredients": [
+      "coconut milk",
+      "ground beef",
+      "basil",
+      "cod",
+      "cream",
+      "pesto",
+      "milk"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook ground beef, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 623,
+      "protein_g": 49,
+      "carbs_g": 10,
+      "fat_g": 43
+    }
+  },
+  {
+    "title": "Coriander Medley",
+    "ingredients": [
+      "coriander",
+      "celery",
+      "peas",
+      "lime"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the coriander and other ingredients.",
+      "Cook celery, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coriander"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0
+    }
+  },
+  {
+    "title": "Ginger Medley",
+    "ingredients": [
+      "ginger",
+      "onion powder",
+      "milk",
+      "potato",
+      "tempeh",
+      "shrimp"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook onion powder, milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ],
+    "allergens": [
+      "milk",
+      "shellfish",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 472,
+      "protein_g": 49,
+      "carbs_g": 40,
+      "fat_g": 14.5
+    }
+  },
+  {
+    "title": "Apple Salad",
+    "ingredients": [
+      "apple",
+      "seaweed",
+      "olive oil",
+      "lentils",
+      "mayonnaise",
+      "milk"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook seaweed, olive oil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 1061,
+      "protein_g": 12,
+      "carbs_g": 25,
+      "fat_g": 103.4
+    }
+  },
+  {
+    "title": "Mushroom Bowl",
+    "ingredients": [
+      "mushroom",
+      "broccoli",
+      "chickpeas",
+      "tomato"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook broccoli, chickpeas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 238,
+      "protein_g": 16,
+      "carbs_g": 41,
+      "fat_g": 3.9
+    }
+  },
+  {
+    "title": "Egg Medley",
+    "ingredients": [
+      "egg",
+      "cinnamon",
+      "green beans",
+      "ground beef"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook cinnamon, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "calories": 328,
+      "protein_g": 32,
+      "carbs_g": 1,
+      "fat_g": 21
+    }
+  },
+  {
+    "title": "Potato Medley",
+    "ingredients": [
+      "potato",
+      "mushroom",
+      "garlic powder",
+      "salt",
+      "ground beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook mushroom, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 398,
+      "protein_g": 33,
+      "carbs_g": 31,
+      "fat_g": 15.9
+    }
+  },
+  {
+    "title": "Cucumber Salad",
+    "ingredients": [
+      "cucumber",
+      "paprika",
+      "vinegar",
+      "quinoa",
+      "black beans"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook paprika, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 500,
+      "protein_g": 23,
+      "carbs_g": 88,
+      "fat_g": 6.5
+    }
+  },
+  {
+    "title": "Spinach Delight",
+    "ingredients": [
+      "spinach",
+      "celery",
+      "green beans",
+      "spring onion",
+      "chickpeas",
+      "beef"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook celery, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 477,
+      "protein_g": 39,
+      "carbs_g": 40,
+      "fat_g": 18.5
+    }
+  },
+  {
+    "title": "Couscous Salad",
+    "ingredients": [
+      "couscous",
+      "pasta",
+      "curry powder",
+      "peas",
+      "egg",
+      "chili powder"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the couscous and other ingredients.",
+      "Cook pasta, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "couscous"
+    ],
+    "allergens": [
+      "egg",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 825,
+      "protein_g": 32,
+      "carbs_g": 153,
+      "fat_g": 7.6
+    }
+  },
+  {
+    "title": "Ginger Salad",
+    "ingredients": [
+      "ginger",
+      "black beans",
+      "chili flakes",
+      "pasta"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook black beans, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 503,
+      "protein_g": 22,
+      "carbs_g": 99,
+      "fat_g": 1.5
+    }
+  },
+  {
+    "title": "Tempeh Skillet",
+    "ingredients": [
+      "tempeh",
+      "mayonnaise",
+      "sweet potato",
+      "turkey",
+      "lamb"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook mayonnaise, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 47,
+      "carbs_g": 29,
+      "fat_g": 19.6
+    }
+  },
+  {
+    "title": "Tempeh Salad",
+    "ingredients": [
+      "tempeh",
+      "cumin",
+      "egg",
+      "tortillas",
+      "tuna"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook cumin, egg until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ],
+    "allergens": [
+      "egg",
+      "fish",
+      "soy",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 417,
+      "protein_g": 55,
+      "carbs_g": 10,
+      "fat_g": 18
+    }
+  },
+  {
+    "title": "Seaweed Bowl",
+    "ingredients": [
+      "seaweed",
+      "banana",
+      "quinoa",
+      "olive oil",
+      "cinnamon",
+      "soba noodles"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the seaweed and other ingredients.",
+      "Cook banana, quinoa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "seaweed"
+    ],
+    "allergens": [
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 1252,
+      "protein_g": 14,
+      "carbs_g": 64,
+      "fat_g": 106
+    }
+  },
+  {
+    "title": "Yogurt Bowl",
+    "ingredients": [
+      "yogurt",
+      "cheese",
+      "carrot",
+      "tuna",
+      "onion powder",
+      "salmon",
+      "spinach"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook cheese, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 989,
+      "protein_g": 95,
+      "carbs_g": 27,
+      "fat_g": 55.1
+    }
+  },
+  {
+    "title": "Avocado Bowl",
+    "ingredients": [
+      "avocado",
+      "salsa",
+      "salmon",
+      "salt"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook salsa, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 27,
+      "carbs_g": 9,
+      "fat_g": 35
+    }
+  },
+  {
+    "title": "Green beans Delight",
+    "ingredients": [
+      "green beans",
+      "broccoli",
+      "curry powder",
+      "pork"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook broccoli, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 276,
+      "protein_g": 30,
+      "carbs_g": 7,
+      "fat_g": 13.4
+    }
+  },
+  {
+    "title": "Yogurt Sauté",
+    "ingredients": [
+      "yogurt",
+      "couscous",
+      "garlic powder",
+      "mushroom",
+      "chard",
+      "sweet potato",
+      "soy sauce"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook couscous, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 672,
+      "protein_g": 42,
+      "carbs_g": 121,
+      "fat_g": 1.9
+    }
+  },
+  {
+    "title": "Honey Skillet",
+    "ingredients": [
+      "honey",
+      "kidney beans",
+      "mushroom",
+      "pesto",
+      "broccoli",
+      "cheese",
+      "spring onion"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook kidney beans, mushroom until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "calories": 498,
+      "protein_g": 32,
+      "carbs_g": 20,
+      "fat_g": 33.8
+    }
+  },
+  {
+    "title": "Avocado Special",
+    "ingredients": [
+      "avocado",
+      "sesame seeds",
+      "chili powder",
+      "soba noodles",
+      "garlic",
+      "rice"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook sesame seeds, chili powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ],
+    "allergens": [
+      "sesame",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 415,
+      "protein_g": 8,
+      "carbs_g": 65,
+      "fat_g": 15.8
+    }
+  },
+  {
+    "title": "Quinoa Special",
+    "ingredients": [
+      "quinoa",
+      "soba noodles",
+      "tortillas",
+      "feta"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook soba noodles, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ],
+    "allergens": [
+      "milk",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 368,
+      "protein_g": 14,
+      "carbs_g": 64,
+      "fat_g": 6
+    }
+  },
+  {
+    "title": "Garlic Salad",
+    "ingredients": [
+      "garlic",
+      "chickpeas",
+      "lemon",
+      "celery",
+      "zucchini"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook chickpeas, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ],
+    "allergens": [
+      "celery"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 12,
+      "carbs_g": 43,
+      "fat_g": 3.8
+    }
+  },
+  {
+    "title": "Ginger Sauté",
+    "ingredients": [
+      "ginger",
+      "lettuce",
+      "cod",
+      "spring onion"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook lettuce, cod until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "calories": 122,
+      "protein_g": 19,
+      "carbs_g": 9,
+      "fat_g": 1.1
+    }
+  },
+  {
+    "title": "Bread Sauté",
+    "ingredients": [
+      "bread",
+      "banana",
+      "pine nuts",
+      "couscous",
+      "cumin",
+      "cinnamon",
+      "ground beef"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook banana, pine nuts until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ],
+    "allergens": [
+      "tree_nuts",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 891,
+      "protein_g": 48,
+      "carbs_g": 126,
+      "fat_g": 18.6
+    }
+  },
+  {
+    "title": "Sesame seeds Sauté",
+    "ingredients": [
+      "sesame seeds",
+      "ground turkey",
+      "tomato",
+      "butter",
+      "olive oil",
+      "bell pepper",
+      "lamb"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook ground turkey, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ],
+    "allergens": [
+      "milk",
+      "sesame"
+    ],
+    "nutrition": {
+      "calories": 1839,
+      "protein_g": 28,
+      "carbs_g": 10,
+      "fat_g": 190.0
+    }
+  },
+  {
+    "title": "Egg Sauté",
+    "ingredients": [
+      "egg",
+      "tempeh",
+      "vinegar",
+      "chili flakes",
+      "lime",
+      "chickpeas",
+      "ginger"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook tempeh, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 437,
+      "protein_g": 34,
+      "carbs_g": 37,
+      "fat_g": 20
+    }
+  },
+  {
+    "title": "Celery Special",
+    "ingredients": [
+      "celery",
+      "honey",
+      "green beans",
+      "pasta"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the celery and other ingredients.",
+      "Cook honey, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "celery"
+    ],
+    "allergens": [
+      "celery",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 371,
+      "protein_g": 13,
+      "carbs_g": 75,
+      "fat_g": 1
+    }
+  },
+  {
+    "title": "Mushroom Delight",
+    "ingredients": [
+      "mushroom",
+      "paprika",
+      "tomato",
+      "potato",
+      "lettuce"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook paprika, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ],
+    "allergens": [],
+    "nutrition": {
+      "calories": 117,
+      "protein_g": 6,
+      "carbs_g": 24,
+      "fat_g": 0.6
+    }
+  },
+  {
+    "title": "Tuna Delight",
+    "ingredients": [
+      "tuna",
+      "onion powder",
+      "garlic powder",
+      "shrimp",
+      "sesame seeds",
+      "lettuce"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tuna and other ingredients.",
+      "Cook onion powder, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tuna"
+    ],
+    "allergens": [
+      "fish",
+      "sesame",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 332,
+      "protein_g": 57,
+      "carbs_g": 20,
+      "fat_g": 1.9
+    }
+  },
+  {
+    "title": "Cinnamon Sauté",
+    "ingredients": [
+      "cinnamon",
+      "garlic",
+      "green beans",
+      "avocado",
+      "shrimp",
+      "spinach"
+    ],
+    "time": "10 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cinnamon and other ingredients.",
+      "Cook garlic, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cinnamon"
+    ],
+    "allergens": [
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 331,
+      "protein_g": 31,
+      "carbs_g": 24,
+      "fat_g": 16.2
+    }
+  },
+  {
+    "title": "Spinach Delight",
+    "ingredients": [
+      "spinach",
+      "coriander",
+      "teriyaki sauce",
+      "bell pepper",
+      "tempeh",
+      "quinoa",
+      "beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook coriander, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "calories": 867,
+      "protein_g": 63,
+      "carbs_g": 83,
+      "fat_g": 32.7
+    }
+  },
+  {
+    "title": "Pasta Sauté",
+    "ingredients": [
+      "pasta",
+      "parmesan",
+      "honey",
+      "pepper",
+      "shrimp"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the pasta and other ingredients.",
+      "Cook parmesan, honey until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pasta"
+    ],
+    "allergens": [
+      "milk",
+      "shellfish",
+      "wheat_gluten"
+    ],
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 37,
+      "carbs_g": 75,
+      "fat_g": 1.3
+    }
+  },
+  {
+    "title": "Milk Bowl",
+    "ingredients": [
+      "milk",
+      "curry powder",
+      "turmeric",
+      "parsley",
+      "shrimp"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the milk and other ingredients.",
+      "Cook curry powder, turmeric until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "milk"
+    ],
+    "allergens": [
+      "milk",
+      "shellfish"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 27,
+      "carbs_g": 5,
+      "fat_g": 3.3
+    }
+  },
+  {
+    "title": "Pine nuts Skillet",
+    "ingredients": [
+      "pine nuts",
+      "black beans",
+      "teriyaki sauce",
+      "celery"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook black beans, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ],
+    "allergens": [
+      "celery",
+      "tree_nuts"
+    ],
+    "nutrition": {
+      "calories": 132,
+      "protein_g": 9,
+      "carbs_g": 24,
+      "fat_g": 0.5
+    }
   }
 ]
