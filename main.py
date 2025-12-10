@@ -85,6 +85,15 @@ def main():
         print("Allergens (best-effort): None detected")
     print()
 
+    # Display nutrition estimates (best-effort)
+    nutrition = selected.get("nutrition", {})
+    if nutrition:
+        print(f"Nutrition estimate (per recipe): {nutrition.get('calories')} cal | {nutrition.get('protein_g')}g protein | {nutrition.get('carbs_g')}g carbs | {nutrition.get('fat_g')}g fat")
+        print("(Best-effort estimate. Do not use for medical/diet purposes.)")
+    else:
+        print("Nutrition estimate: Not available")
+    print()
+
     while True:
         try:
             q = ask_user("Anything else? Ask for substitutions, time, or 'want to make this' to confirm, or 'exit'")
@@ -151,6 +160,14 @@ def main():
                     for step in selected.get("steps", []):
                         f.write(f" - {step}\n")
                     f.write(f"\nTime: {selected.get('time')}\n")
+                    f.write("\nNutrition (rough estimate):\n")
+                    nutrition = selected.get("nutrition", {})
+                    if nutrition:
+                        f.write(f" - Calories: {nutrition.get('calories')}\n")
+                        f.write(f" - Protein: {nutrition.get('protein_g')}g\n")
+                        f.write(f" - Carbs: {nutrition.get('carbs_g')}g\n")
+                        f.write(f" - Fat: {nutrition.get('fat_g')}g\n")
+                    f.write("\n(Nutrition estimates are best-effort and should NOT be used for medical/diet purposes.)\n")
                 print(f"Saved to {saved_path} and created recipe card at {card_path}")
 
             # Timers suggestion based on recipe time
